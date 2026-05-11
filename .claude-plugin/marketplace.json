@@ -1,0 +1,17 @@
+{
+  "name": "ai-pdlc",
+  "owner": {
+    "name": "AI-PDLC contributors"
+  },
+  "plugins": [
+    {
+      "name": "ai-pdlc",
+      "source": {
+        "source": "git-subdir",
+        "url": "aws-samples/sample-claude-code-agents-for-product-teams",
+        "path": "plugin"
+      },
+      "description": "Tool-agnostic AI-powered product development lifecycle handbook — 9 phases, 14 role swim lanes, ~130 activities, ~260 artifacts/outcomes. Installs the ai-pdlc-navigator skill, 14 role teammate agents, and orchestrating slash commands, all grounded in the same bundled handbook content."
+    }
+  ]
+}
