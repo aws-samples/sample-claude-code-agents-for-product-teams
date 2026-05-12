@@ -8,6 +8,8 @@ _Produced by: Application monitoring_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — you don't get to skip "is it up"
+
 ## What this is
 
 The dashboards and paging rules SRE maintains to observe production — SLI dashboards per service, error-budget burn views, saturation and cost views, and the alerts that actually wake someone up. Curated, not generated.

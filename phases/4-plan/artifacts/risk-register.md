@@ -8,6 +8,8 @@ _Produced by: Risk identification & escalation_
 
 **Stakeholders:** Product Sponsor
 
+**Accelerated MVP:** slim — a short list of "what could kill this" is enough
+
 ## What this is
 
 The living inventory of identified delivery risks — probability, impact, owner, mitigation, trigger, and status. Feeds into the RAID log as the "R" but is owned distinctly because it needs Sponsor visibility and active management.

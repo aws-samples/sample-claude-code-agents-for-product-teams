@@ -8,6 +8,8 @@ _Produced by: Governance cadence setup_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the squad's own cadence is the only cadence
+
 ## What this is
 
 The schedule of governance and delivery ceremonies — standups, iteration reviews, stage gates, steering, architecture/security reviews, release windows — with attendees, purpose, and artifacts produced by each.

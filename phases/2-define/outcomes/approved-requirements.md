@@ -4,6 +4,8 @@ _Produced by: Review & iterate on requirements_
 
 **Primary owner:** Business Analyst
 
+**Accelerated MVP:** slim — PO acceptance of the backlog is enough
+
 ## What this is
 
 The requirements draft has been iterated with stakeholders and formally approved. It is now the authoritative description of what the product must do.

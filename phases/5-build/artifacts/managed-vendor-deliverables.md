@@ -8,6 +8,8 @@ _Produced by: Vendor & contract management_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when no vendor is in scope
+
 ## What this is
 
 The tracked set of vendor and partner deliverables on the critical path — SOW milestones, acceptance state, invoice and payment status, escalation history, and risks. Makes external work as visible and managed as internal work.

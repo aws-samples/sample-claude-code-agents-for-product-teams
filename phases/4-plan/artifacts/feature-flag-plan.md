@@ -8,6 +8,8 @@ _Produced by: Feature flag strategy_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** required — MVPs need a safe way to turn things off
+
 ## What this is
 
 The strategy for how the team will use feature flags — which flagging platform, flag taxonomy (release, experiment, ops, permission), lifecycle, rollout patterns, and cleanup discipline. It's the operating contract for trunk-based delivery and progressive rollout.

@@ -8,6 +8,8 @@ _Produced by: Accessibility design review_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when the MVP is publicly accessible; otherwise address during Verify
+
 ## What this is
 
 A review of the design against the committed accessibility standard (typically WCAG 2.1 or 2.2 at AA) — findings, required changes, and the accessibility posture for build. It is accessibility-by-design, before the expensive audit in Verify.

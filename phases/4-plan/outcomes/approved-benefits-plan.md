@@ -4,6 +4,8 @@ _Produced by: Approve benefits realization plan_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** optional when the benefits plan itself is optional
+
 ## What this is
 
 The Sponsor approves the BA's benefits realization plan — what benefits, when, and how they'll be measured — as the commitment against which the initiative will be judged.

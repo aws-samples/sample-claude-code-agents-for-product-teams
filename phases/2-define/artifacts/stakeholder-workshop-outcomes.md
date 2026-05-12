@@ -8,6 +8,8 @@ _Produced by: Define-phase stakeholder workshops_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when stakeholder alignment happens in working sessions with the squad
+
 ## What this is
 
 The consolidated record from Define-phase stakeholder workshops — decisions made, disagreements parked, action items owned, and open questions captured. It is the evidence that requirements and charter were co-produced, not imposed.

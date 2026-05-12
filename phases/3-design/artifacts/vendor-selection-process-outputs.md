@@ -8,6 +8,8 @@ _Produced by: Vendor selection process coordination_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when no vendor is in scope
+
 ## What this is
 
 The record of how the vendor-selection process was run — shortlisting, RFPs, demos, POCs, scoring, and decision. It is the process-governance artifact that makes the vendor choice defensible to procurement, finance, and (if things go wrong) legal.

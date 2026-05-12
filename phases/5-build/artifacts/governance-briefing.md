@@ -8,6 +8,8 @@ _Produced by: Steering / board progress briefing_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no governance forum
+
 ## What this is
 
 A formal briefing artifact for steering committees, boards, or portfolio reviews — deeper than the executive status update, with the strategic narrative, investment posture, and any portfolio-level decisions the initiative needs.

@@ -8,6 +8,8 @@ _Produced by: RAID log maintenance_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — the RAID log itself is already slim
+
 ## What this is
 
 The Build-phase evolution of the RAID log set up in Plan — Risks, Assumptions, Issues, Dependencies maintained with fresh state as the initiative progresses. Evidence that governance is active, not just installed.

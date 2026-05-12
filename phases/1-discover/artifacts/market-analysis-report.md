@@ -8,6 +8,8 @@ _Produced by: Market & customer research_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP targets a known audience the team already serves
+
 ## What this is
 
 A synthesis of market size, segmentation, trends, buyer behavior, and adjacent forces that affect whether the opportunity is real and growing. It is the evidence behind claims like "the market for X is growing 18% YoY" that show up in the business case.

@@ -8,6 +8,8 @@ _Produced by: Customer onboarding / activation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a list of users who actually logged in and used it is enough
+
 ## What this is
 
 The operational record of customers successfully onboarded to the product — who hit activation milestones, when, and where they stalled. Tracked per cohort so onboarding improvements can be measured.

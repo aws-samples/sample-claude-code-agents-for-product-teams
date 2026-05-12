@@ -8,6 +8,8 @@ _Produced by: Review & code workitems_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — these are the MVP
+
 ## What this is
 
 Work items taken from the backlog through to code-complete — committed, reviewed, and satisfying their acceptance criteria. The daily output of Build, tracked at the item level rather than the code level.

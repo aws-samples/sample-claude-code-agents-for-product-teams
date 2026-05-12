@@ -8,6 +8,8 @@ _Produced by: Document bugs with reproduction details_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — in-tool bug entries with repro steps are enough
+
 ## What this is
 
 Structured bug reports — reproducible, scoped, and severity-assigned — from exploratory testing, failed automation, regression runs, and field reports. The raw material Product Owner uses to build the prioritized bug list.

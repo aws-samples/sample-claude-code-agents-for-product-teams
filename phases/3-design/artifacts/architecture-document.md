@@ -8,6 +8,8 @@ _Produced by: Document solution architecture_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a one-page overview plus ADRs is enough
+
 ## What this is
 
 The authoritative description of the solution architecture — components, responsibilities, interactions, data flows, deployment topology, and the NFRs each decision honors. It is the diagram-and-narrative pack an engineer can build from.

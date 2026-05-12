@@ -8,6 +8,8 @@ _Produced by: Benefits realization coordination_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when benefits review happens in the KPI cadence
+
 ## What this is
 
 The calendar of post-launch benefits-review checkpoints the PM coordinates — at 30, 90, 180 days and beyond — with inputs required, attendees, and decisions expected. Holds the org to its benefits-realization commitments.

@@ -8,6 +8,8 @@ _Produced by: Business process modeling (as-is / to-be)_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP doesn't change existing business processes
+
 ## What this is
 
 As-is and to-be diagrams of the business processes the product participates in — who does what, in what order, with what inputs and outputs, and where the product fits. Typically BPMN or an equivalent lightweight swim-lane notation.

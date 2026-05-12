@@ -8,6 +8,8 @@ _Produced by: Architecture conformance review_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the squad owns the architecture it's conforming to
+
 ## What this is
 
 Findings from periodic architecture conformance reviews — where implementation has drifted from approved patterns, NFRs, data model, or integration contracts. Per finding: severity, what's deviating, why, and the remediation plan.

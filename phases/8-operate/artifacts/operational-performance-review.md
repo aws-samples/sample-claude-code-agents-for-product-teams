@@ -8,6 +8,8 @@ _Produced by: Review operational KPIs & SLO performance_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is reviewed inside the squad cadence
+
 ## What this is
 
 The Sponsor's periodic review of how the product is actually performing in production — SLO attainment, error-budget burn, incident trends, cost trajectory, and reliability health — rolled up to a level that supports portfolio decisions.

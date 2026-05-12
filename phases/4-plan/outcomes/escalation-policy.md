@@ -4,6 +4,8 @@ _Produced by: Set risk appetite & escalation thresholds_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** slim — "who to call when" in one paragraph is enough
+
 ## What this is
 
 An explicit policy: which risks and issues reach the Sponsor, how fast, through whom. Sets the risk appetite for the initiative.

@@ -8,6 +8,8 @@ _Produced by: Update test designs against approved design_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — acceptance-criteria-as-tests is enough
+
 ## What this is
 
 Test designs that reflect the now-concrete architecture, APIs, data model, and UX — not just the abstract requirements. It is the Design-era evolution of the [test-to-requirement coverage map](../../2-define/artifacts/test-to-requirement-coverage-map.md) with enough specificity to automate and execute.

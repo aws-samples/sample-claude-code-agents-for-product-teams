@@ -8,6 +8,8 @@ _Produced by: Requirements traceability matrix_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the squad keeps traceability in the backlog tool itself
+
 ## What this is
 
 A table linking each requirement to its sources (persona, business rule, regulation), its design artifacts, its tests, and — in later phases — its release and benefits. Rows are requirement IDs; columns trace upstream and downstream relationships.

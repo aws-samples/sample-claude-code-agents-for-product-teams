@@ -8,6 +8,8 @@ _Produced by: Threat modeling_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** required when the MVP is external-facing or handles sensitive data; otherwise reduce to platform defaults
+
 ## What this is
 
 A structured analysis of how the architecture could be attacked — assets, trust boundaries, entry points, threats (typically via STRIDE or similar), mitigations, and residual risk. It is how abstract security controls become concrete, in-context design decisions.

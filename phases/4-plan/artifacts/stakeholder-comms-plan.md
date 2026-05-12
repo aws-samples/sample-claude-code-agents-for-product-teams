@@ -8,6 +8,8 @@ _Produced by: Stakeholder communication plan_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when stakeholders are inside the squad
+
 ## What this is
 
 The plan for who needs to know what, when, and through which channel across the initiative. Each audience has message goals, cadence, format, and an owner. Drives the actual comms the PM executes.

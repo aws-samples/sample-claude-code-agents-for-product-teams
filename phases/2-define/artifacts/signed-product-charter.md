@@ -8,6 +8,8 @@ _Produced by: Approve product charter_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** optional when the team is a single squad without cross-org commitments
+
 ## What this is
 
 A short, formally approved document that names the initiative, its sponsor, its scope boundaries, its decision rights, and its success criteria. It is the authorizing document the org recognizes — "this is a real initiative; these people can spend this money to do this work."

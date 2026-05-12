@@ -8,6 +8,8 @@ _Produced by: Early feasibility / risk assessment_
 
 **Stakeholders:** Architect, Product Sponsor
 
+**Accelerated MVP:** slim — named unknowns and planned spikes are enough; full memo comes before scaling
+
 ## What this is
 
 A short, honest read on whether the initiative is technically, operationally, legally, and commercially feasible before anyone commits serious money. It surfaces the "we cannot do this because…" constraints while they can still reshape scope cheaply.

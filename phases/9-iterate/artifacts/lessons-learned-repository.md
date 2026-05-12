@@ -8,6 +8,8 @@ _Produced by: Lessons-learned facilitation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a retro doc per iteration is enough
+
 ## What this is
 
 The organization-wide, searchable repository of lessons captured from this initiative — what worked, what didn't, what surprised the team — tagged by phase, role, and theme so future projects can pull from it.

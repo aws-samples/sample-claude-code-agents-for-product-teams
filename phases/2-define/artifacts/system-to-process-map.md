@@ -8,6 +8,8 @@ _Produced by: System context overlay on processes_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no process change to map
+
 ## What this is
 
 The overlay that shows which systems (current and planned) enact which steps of the business processes — and where the product under development fits in. It is the bridge from BA-owned process models to Architect-owned integration design.

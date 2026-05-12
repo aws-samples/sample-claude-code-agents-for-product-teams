@@ -8,6 +8,8 @@ _Produced by: Business planning_
 
 **Stakeholders:** Product Sponsor
 
+**Accelerated MVP:** slim — a back-of-napkin "who benefits and by how much" suffices; revisit before scaling investment
+
 ## What this is
 
 The financial and strategic justification for investing in this initiative — what it will cost, what it will return, over what time horizon, and under what assumptions. This is the draft that becomes the [approved business case](../../2-define/outcomes/approved-business-case.md) in Define and the baseline every later phase measures actuals against.

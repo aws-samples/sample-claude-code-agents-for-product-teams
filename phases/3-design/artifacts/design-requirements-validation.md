@@ -8,6 +8,8 @@ _Produced by: Validate design against requirements_
 
 **Stakeholders:** Security & Compliance
 
+**Accelerated MVP:** optional when acceptance criteria are the validation
+
 ## What this is
 
 A cross-check that every committed requirement (functional, non-functional, regulatory) is actually addressed by the design — and that the design has not quietly added scope that isn't in requirements. It is the reconciliation step before build commitment.

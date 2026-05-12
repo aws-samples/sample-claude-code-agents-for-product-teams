@@ -8,6 +8,8 @@ _Produced by: Customer communications_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is private
+
 ## What this is
 
 The segmented customer-facing messages announcing the launch — email campaigns, in-product banners, status page notices, and partner notifications. Targeted by segment (existing customer, trial, prospect, partner) and personalized where it matters.

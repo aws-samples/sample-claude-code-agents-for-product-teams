@@ -8,6 +8,8 @@ _Produced by: Problem-solution fit hypothesis_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the MVP is the test of this hypothesis
+
 ## What this is
 
 A falsifiable statement of the form "we believe [persona] will [behavior change] because of [intervention], resulting in [measurable outcome]." It turns a vague "this should help" into something Discover and later phases can actually test.

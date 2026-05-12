@@ -8,6 +8,8 @@ _Produced by: Non-functional requirements definition_
 
 **Stakeholders:** Business Analyst
 
+**Accelerated MVP:** slim — define only the NFRs the MVP's traffic and data sensitivity actually stress
+
 ## What this is
 
 The catalog of non-functional requirements — performance, availability, scalability, security, privacy, maintainability, observability, portability, usability, accessibility — each quantified with a target, a measurement method, and a rationale. NFRs are requirements too, just the kind that usually determine build cost.

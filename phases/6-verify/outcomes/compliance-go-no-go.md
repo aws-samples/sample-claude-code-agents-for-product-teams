@@ -4,6 +4,8 @@ _Produced by: Compliance readiness review_
 
 **Primary owner:** Security & Compliance
 
+**Accelerated MVP:** required when regulated; otherwise skip
+
 ## What this is
 
 Security & Compliance separately signs off (or withholds sign-off) on whether the product meets its compliance obligations and is ready to serve real customer data.

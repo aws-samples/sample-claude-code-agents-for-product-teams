@@ -4,6 +4,8 @@ _Produced by: Vendor / partner executive alignment_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** optional when there is no vendor in scope
+
 ## What this is
 
 A signed or committed agreement with the vendor/partner chosen in the build-vs-buy decision — the commercial, legal, and operational relationship is real.

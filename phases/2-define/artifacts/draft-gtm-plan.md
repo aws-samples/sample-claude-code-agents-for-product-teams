@@ -8,6 +8,8 @@ _Produced by: GTM planning — initial_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is a private beta or internal release
+
 ## What this is
 
 The first pass at go-to-market strategy — positioning, target segments, channels, pricing posture, launch sequence, and sales-readiness plan. It is a draft so product-marketing decisions can shape (and be shaped by) Design, not arrive as a fait accompli before launch.

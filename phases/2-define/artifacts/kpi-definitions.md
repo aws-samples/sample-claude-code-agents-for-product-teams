@@ -8,6 +8,8 @@ _Produced by: Success metrics / KPI definition_
 
 **Stakeholders:** Product Sponsor
 
+**Accelerated MVP:** required — the MVP cannot be evaluated without named metrics
+
 ## What this is
 
 The precise, implementable definitions of the metrics the product will be judged by — formula, data source, cadence, owner, and target. Definitions at this level let engineers instrument, analysts compute, and everyone argue about the right thing.

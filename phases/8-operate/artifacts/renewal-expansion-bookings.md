@@ -8,6 +8,8 @@ _Produced by: Renewal & expansion management_
 
 **Stakeholders:** Sales & Marketing
 
+**Accelerated MVP:** optional when there is no commercial motion
+
 ## What this is
 
 The actual booked renewals and expansions — closed-won records with realized ARR, contract length, and discount. The "did it happen" counterpart to the renewal & expansion pipeline.

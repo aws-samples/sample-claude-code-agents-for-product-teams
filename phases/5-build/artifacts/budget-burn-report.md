@@ -8,6 +8,8 @@ _Produced by: Budget & burn tracking_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP has no separate budget line
+
 ## What this is
 
 A period view of actuals vs. baseline spend — people, cloud/infra, vendor, tooling — with forecast to completion and variance commentary. The financial companion to the feature/epic status report.

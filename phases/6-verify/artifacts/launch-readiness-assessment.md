@@ -8,6 +8,8 @@ _Produced by: Review launch-readiness metrics_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a one-pager of green, yellow, red is enough
+
 ## What this is
 
 The Sponsor's consolidated view of whether the product is truly ready to launch — synthesizing functional, NFR, operational, commercial, security, and comms readiness against the business-case success conditions. Input to the committed launch date and eventual go/no-go.

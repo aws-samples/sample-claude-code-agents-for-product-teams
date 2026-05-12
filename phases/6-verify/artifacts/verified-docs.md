@@ -8,6 +8,8 @@ _Produced by: Documentation review_
 
 **Stakeholders:** QA/Tester
 
+**Accelerated MVP:** slim — a README plus a short user note is enough for an MVP
+
 ## What this is
 
 Technical documentation — user guides, reference, tutorials, release notes drafts, support playbooks, in-product copy — reviewed for accuracy against the as-built product and proven by walking through each flow. Not style review; correctness review.

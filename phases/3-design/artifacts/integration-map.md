@@ -8,6 +8,8 @@ _Produced by: Integration / system context map_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a sketch of the systems the MVP talks to is enough
+
 ## What this is
 
 The detailed view of integrations in and out of the product — protocols, data, directionality, ownership, SLAs, and failure modes. It is the Design-era evolution of the [system-to-process map](../../2-define/artifacts/system-to-process-map.md) with enough specificity to build against.

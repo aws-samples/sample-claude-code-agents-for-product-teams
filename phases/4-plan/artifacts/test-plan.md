@@ -8,6 +8,8 @@ _Produced by: Test strategy_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a one-page "what we test at which layer" is enough; TDD covers the rest
+
 ## What this is
 
 The risk-based testing strategy for the initiative — what you'll test, at which levels, using which techniques, in which environments, with which entry/exit criteria. It's the operating contract between QA, engineering, and the rest of the team for how quality is built in and evidenced.

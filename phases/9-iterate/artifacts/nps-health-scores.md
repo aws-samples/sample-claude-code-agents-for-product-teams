@@ -8,6 +8,8 @@ _Produced by: Customer success check-ins / NPS_
 
 **Stakeholders:** Sales & Marketing
 
+**Accelerated MVP:** optional when the MVP cohort is too small for NPS to signal
+
 ## What this is
 
 The latest NPS results and refreshed account health scores — promoters, detractors, verbatims, and the per-account composite score used to target retention work. Refreshed on a defined cadence.

@@ -8,6 +8,8 @@ _Produced by: Draft requirements_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — user stories or acceptance criteria in the backlog suffice
+
 ## What this is
 
 The structured catalog of functional requirements for the initiative — each requirement uniquely identified, stated in outcome language, and tied back to a user job and a business benefit. This is the raw material every downstream team will consume.

@@ -8,6 +8,8 @@ _Produced by: Capacity & scale architecture review_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP isn't near scale
+
 ## What this is
 
 The forward-looking architectural analysis of whether the system will hold up at projected customer, traffic, and data growth — with specific ceilings, bottlenecks, and investments required before they bite.

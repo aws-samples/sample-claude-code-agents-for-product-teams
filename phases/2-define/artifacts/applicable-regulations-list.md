@@ -8,6 +8,8 @@ _Produced by: Regulatory / compliance scope assessment_
 
 **Stakeholders:** Business Analyst
 
+**Accelerated MVP:** required — compliance scope doesn't get to be accelerated
+
 ## What this is
 
 The definitive list of laws, regulations, standards, and contractual obligations the product must comply with, promoted from the Discover [regulatory risk flag](../../1-discover/artifacts/regulatory-risk-flag.md). For each, it names the specific controls, evidence, and audit cadence implied.

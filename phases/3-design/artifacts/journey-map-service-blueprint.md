@@ -8,6 +8,8 @@ _Produced by: Customer journey mapping_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP journey is a single happy path
+
 ## What this is
 
 Two paired artifacts: the user journey map (the experience from the user's point of view, including pre- and post-product touchpoints) and the service blueprint (the front-stage, back-stage, and support processes that make the journey work). Together they show what the user experiences and what the org must do to deliver it.

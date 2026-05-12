@@ -8,6 +8,8 @@ _Produced by: Incident response / on-call_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required for incidents above the team's bar; otherwise skip
+
 ## What this is
 
 The shareable, blameless narrative of an incident — what happened, impact, causes, response effectiveness, and follow-up actions — written for the broader engineering org to read and learn from. One per incident above severity threshold.

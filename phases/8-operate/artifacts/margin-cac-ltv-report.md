@@ -8,6 +8,8 @@ _Produced by: Unit-economics / margin review_
 
 **Stakeholders:** Business Analyst, Architect
 
+**Accelerated MVP:** optional when the MVP isn't monetized
+
 ## What this is
 
 Unit economics for the product — gross margin, cost of goods sold composition, customer acquisition cost, lifetime value, and payback period — measured and compared to the assumptions baked into the original business case.

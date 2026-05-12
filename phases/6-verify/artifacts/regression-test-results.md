@@ -8,6 +8,8 @@ _Produced by: Regression testing_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the test suite has to pass
+
 ## What this is
 
 Full-regression-suite execution against the release candidate in a production-like environment — pass/fail, trend, flakiness, and any regressions introduced by late-Build or Verify-phase fixes.

@@ -8,6 +8,8 @@ _Produced by: Competitor analysis_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP isn't positioned against specific competitors yet
+
 ## What this is
 
 A structured view of who else plays in or near the opportunity space — direct competitors, indirect substitutes, and the "good enough" status quo. It is how the org sees the table it is about to sit down at.

@@ -8,6 +8,8 @@ _Produced by: Technical impact of scope changes_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — inline in the design guidance, not a separate doc
+
 ## What this is
 
 The Architect's analysis of the technical consequences of a proposed scope change — what components, NFRs, integrations, and ADRs it touches, plus risk, effort, and sequence implications. Parallel to the BA's change impact report but on the engineering side.

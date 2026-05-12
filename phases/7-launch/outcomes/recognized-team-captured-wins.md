@@ -4,6 +4,8 @@ _Produced by: Team recognition & celebration_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** optional when the squad celebrates in-squad
+
 ## What this is
 
 Explicit, Sponsor-led recognition of the team's contribution and capture of what went well for future reuse.

@@ -8,6 +8,8 @@ _Produced by: Execute support process cutover_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no formal support motion
+
 ## What this is
 
 The support operation running live for the new product on launch day — staffed queues, routing rules, SLAs, escalation paths, tagging taxonomy, and knowledge-base links. Proof that support is open for business.

@@ -8,6 +8,8 @@ _Produced by: Develop tests_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the MVP's regression safety net
+
 ## What this is
 
 The living, versioned collection of automated tests — unit, integration, contract, end-to-end, and specialist checks (a11y, perf smoke, resilience) — that runs in CI and produces the regression signal every PR relies on.

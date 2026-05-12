@@ -8,6 +8,8 @@ _Produced by: Dependency mapping_
 
 **Stakeholders:** Project Manager
 
+**Accelerated MVP:** required — unknown dependencies kill MVPs
+
 ## What this is
 
 The register of everything the initiative depends on being true, delivered, or available — other teams' outputs, vendor commitments, platform capabilities, regulatory approvals, contract signatures — with owners, dates, and contingency posture.

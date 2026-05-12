@@ -8,6 +8,8 @@ _Produced by: Gap analysis_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** optional when the MVP lives within existing capability
+
 ## What this is
 
 A gap analysis of required capabilities vs. what the organization, platform, and product already provide — categorized by build, buy, partner, or defer. It names the real work, not just the feature list.

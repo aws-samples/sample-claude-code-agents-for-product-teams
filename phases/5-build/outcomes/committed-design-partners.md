@@ -6,6 +6,8 @@ _Produced by: Design-partner / early-customer engagement_
 
 **Stakeholders:** Sales & Marketing
 
+**Accelerated MVP:** optional when the MVP has no external design partners
+
 ## What this is
 
 Early customers, partners, or internal teams have formally committed to be the first real users of the product.

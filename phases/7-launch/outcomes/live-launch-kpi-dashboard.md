@@ -4,6 +4,8 @@ _Produced by: Launch KPI dashboard setup_
 
 **Primary owner:** Business Analyst
 
+**Accelerated MVP:** required — MVP evaluation happens here
+
 ## What this is
 
 The actual live dashboard that shows the product's success metrics in production from launch day forward.

@@ -8,6 +8,8 @@ _Produced by: Security posture review_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — the MVP's threat-model check-in is enough
+
 ## What this is
 
 The periodic assessment of the product's overall security posture — control maturity, residual risk, incident trend, audit standing, and recommended investments. Written for the Sponsor and executive leadership, not just the security team.

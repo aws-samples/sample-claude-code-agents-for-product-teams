@@ -8,6 +8,8 @@ _Produced by: Customer health scoring_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the cohort is small enough to track in-head
+
 ## What this is
 
 A composite score per customer account — usage, support sentiment, NPS, billing health, executive engagement — that predicts renewal probability. Paired with an at-risk list triaged into save-plays.

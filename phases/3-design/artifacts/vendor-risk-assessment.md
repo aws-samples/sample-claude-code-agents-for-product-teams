@@ -8,6 +8,8 @@ _Produced by: Vendor security & compliance assessment_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when a vendor is in scope; otherwise skip
+
 ## What this is
 
 A security, privacy, and compliance assessment of each candidate (and selected) vendor — certifications, data handling, sub-processors, incident history, and contractual posture. It is the diligence record that makes "we did our due diligence" a defensible claim.

@@ -8,6 +8,8 @@ _Produced by: Create feature documentation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — what it does and how to use it, in one place
+
 ## What this is
 
 Reference-style documentation for each capability that is launching — what it does, how it is configured, constraints, permissions, and examples. Indexed for search and linked from in-product help.

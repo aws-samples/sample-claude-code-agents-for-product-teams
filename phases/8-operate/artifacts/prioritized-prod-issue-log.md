@@ -8,6 +8,8 @@ _Produced by: Triage & log production issues for developer fixes_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a shared bug board suffices
+
 ## What this is
 
 The ordered queue of production issues SRE has triaged and handed to engineering — bugs, reliability gaps, toil items, and follow-ups from incidents. Each has a severity, owner, and fix-or-defer status.

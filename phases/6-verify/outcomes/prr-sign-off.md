@@ -6,6 +6,8 @@ _Produced by: Operational readiness review_
 
 **Stakeholders:** Release Manager, Architect
 
+**Accelerated MVP:** slim — SRE plus Architect thumbs-up on the runbook is enough
+
 ## What this is
 
 The Production Readiness Review sign-off from SRE, Release Manager, and Architect — the operations side of launch readiness.

@@ -8,6 +8,8 @@ _Produced by: Dependency / RAID management setup_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — the risk register plus an open-issues list is enough
+
 ## What this is
 
 The consolidated Risks, Assumptions, Issues, and Dependencies log — one place where anything that could alter the plan is tracked with owner, date, and state. Sits alongside the risk register but captures the broader set.

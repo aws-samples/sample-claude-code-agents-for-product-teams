@@ -6,6 +6,8 @@ _Produced by: Analyst / press / reference pre-briefing_
 
 **Stakeholders:** Sales & Marketing
 
+**Accelerated MVP:** optional when the MVP is private
+
 ## What this is
 
 Analysts, press, and reference customers have been pre-briefed by the Sponsor and Sales & Marketing, under embargo, so that launch-day coverage is informed rather than cold.

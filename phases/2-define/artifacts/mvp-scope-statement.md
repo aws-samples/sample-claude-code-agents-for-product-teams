@@ -8,6 +8,8 @@ _Produced by: MVP / scope decision_
 
 **Stakeholders:** Product Sponsor
 
+**Accelerated MVP:** required — this is the spec the accelerated path delivers against
+
 ## What this is
 
 A written articulation of the minimum viable scope — the smallest coherent slice that can test the outcome hypothesis with real users. It is the line between "first release" and "nice-to-have," and the stake in the ground for scope discipline through Build.

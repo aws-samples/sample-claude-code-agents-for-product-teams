@@ -8,6 +8,8 @@ _Produced by: Align to portfolio strategy_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** optional when the initiative doesn't compete for portfolio funding
+
 ## What this is
 
 A short, explicit statement of how this initiative ladders up to corporate and portfolio strategy — which strategic bet it supports, which pillar it advances, and which trade-offs it is making against other bets. It is the Sponsor's answer to "why this, why now, why instead of something else."

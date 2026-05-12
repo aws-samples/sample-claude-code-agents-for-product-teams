@@ -8,6 +8,8 @@ _Produced by: Update architecture decision records_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — decisions change; ADRs track why
+
 ## What this is
 
 Architecture Decision Records — added, updated, or superseded during Build — capturing material decisions, the context that drove them, and the consequences accepted. Versioned with the code they govern.

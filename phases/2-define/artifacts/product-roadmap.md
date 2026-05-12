@@ -8,6 +8,8 @@ _Produced by: Create & manage product roadmap_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — the MVP itself plus the next one-to-two iterations is enough
+
 ## What this is
 
 A time-bounded sequence of outcome-oriented bets the product will pursue over the next 3–4 quarters, grouped by theme. It is not a dated feature list; it is a communication of intent with enough concreteness to plan around.

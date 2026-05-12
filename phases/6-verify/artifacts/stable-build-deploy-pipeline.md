@@ -8,6 +8,8 @@ _Produced by: Troubleshoot build & deploy activities_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — repeatable deploys matter from day one
+
 ## What this is
 
 Evidence that the production deploy path — pipeline stages, artifact promotion, infrastructure changes, migration steps — is reliable under Verify-era load and can execute the launch deploy without novel surprises.

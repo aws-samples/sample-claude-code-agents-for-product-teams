@@ -8,6 +8,8 @@ _Produced by: Information architecture_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP has minimal navigation surface
+
 ## What this is
 
 The information architecture of the product — navigation model, content hierarchy, taxonomy, labels, and search behavior. It is the skeleton on top of which visual design, content, and code all hang.

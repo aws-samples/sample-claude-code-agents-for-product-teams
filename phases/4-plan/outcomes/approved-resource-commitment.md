@@ -4,6 +4,8 @@ _Produced by: Approve staffing & resourcing plan_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** required — knowing who is committed matters even for a squad
+
 ## What this is
 
 The Sponsor has formally committed the people, environments, and money the delivery plan requires — not just in theory, but on the floor of the organization.

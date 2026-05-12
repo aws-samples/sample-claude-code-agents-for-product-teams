@@ -8,6 +8,8 @@ _Produced by: Validate visual fidelity to design_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is utility, API, or internal-only
+
 ## What this is
 
 The systematic comparison of the built product against the approved visual design — spacing, typography, color, motion, states, responsive behavior — flagging drift for remediation before launch. Not pixel-perfect dogma; an evidence-based fidelity check.

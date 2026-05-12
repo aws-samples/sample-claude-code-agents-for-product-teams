@@ -4,6 +4,8 @@ _Produced by: Initiative kickoff & internal announcement_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** optional when the squad is already aligned
+
 ## What this is
 
 An internal announcement that the initiative is officially underway, signed by the Sponsor, that names the team, goals, and governance.

@@ -8,6 +8,8 @@ _Produced by: A/B testing / experimentation_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** slim — a short writeup of what shipped and what moved is enough
+
 ## What this is
 
 The results of A/B and multivariate experiments run on the live product — hypothesis, design, sample size, stat significance, and decision (ship, kill, iterate). A living record of what the team learned empirically.

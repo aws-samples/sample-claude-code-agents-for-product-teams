@@ -8,6 +8,8 @@ _Produced by: Problem-opportunity analysis_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is a learning investment rather than a funding ask
+
 ## What this is
 
 A quantified view of how much value the opportunity could generate if the validated problem were solved — expressed in revenue, cost avoided, hours reclaimed, or whatever currency the Sponsor cares about. It is the bridge between the market analysis and the financial case.

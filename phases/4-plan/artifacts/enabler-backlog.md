@@ -8,6 +8,8 @@ _Produced by: Architecture runway / technical enablers_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** slim — only the enablers the MVP actually needs
+
 ## What this is
 
 The backlog of technical work that has no direct user-facing value but must exist before feature work can land cleanly — auth scaffolding, shared libraries, schema migrations, platform upgrades, observability plumbing, security primitives. It's architecture runway, tracked like stories.

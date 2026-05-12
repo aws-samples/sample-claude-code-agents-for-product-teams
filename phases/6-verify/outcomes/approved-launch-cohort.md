@@ -6,6 +6,8 @@ _Produced by: Approve beta / early-access cohort_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** slim — naming the beta users is enough
+
 ## What this is
 
 The Sponsor and PO approve the specific customers, partners, or user groups who will be the first to receive the product.

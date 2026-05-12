@@ -4,6 +4,8 @@ _Produced by: Steering committee review_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** optional when there is no steering committee
+
 ## What this is
 
 A scheduled steering committee review where cross-functional executives check progress, surface cross-portfolio issues, and confirm continued support.

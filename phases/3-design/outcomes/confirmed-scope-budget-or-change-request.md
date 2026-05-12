@@ -6,6 +6,8 @@ _Produced by: Budget & scope reality check_
 
 **Stakeholders:** Product Owner, Project Manager
 
+**Accelerated MVP:** slim — PO-confirmed scope is enough
+
 ## What this is
 
 After the reality of design surfaces cost and complexity, the Sponsor confirms the original scope and budget, or triggers a formal change request.

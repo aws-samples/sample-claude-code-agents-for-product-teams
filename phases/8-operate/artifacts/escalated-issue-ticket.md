@@ -8,6 +8,8 @@ _Produced by: Escalate user issues_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when escalation equals Slacking the squad
+
 ## What this is
 
 A ticket Support has decided cannot be resolved at its tier and is handing to engineering, security, or leadership. Structured with reproduction steps, impact assessment, and the support context so the receiving team can act immediately.

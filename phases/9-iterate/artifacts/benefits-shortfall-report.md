@@ -8,6 +8,8 @@ _Produced by: Benefits shortfall root-cause analysis_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** optional when the benefits realization report already names the shortfalls
+
 ## What this is
 
 The root-cause analysis when promised benefits did not realize — what went wrong, which assumption failed, and what it would take to close the gap or accept the new reality. BA-led, Architect-consulted.

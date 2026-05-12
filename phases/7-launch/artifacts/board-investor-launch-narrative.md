@@ -8,6 +8,8 @@ _Produced by: Board / investor launch briefing_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is not a board event
+
 ## What this is
 
 The narrative the Sponsor delivers to the board, investors, or executive committee at launch — what shipped, why it matters to the portfolio, and what performance to expect over the next one to four quarters. It frames the bet in strategic terms, not feature terms.

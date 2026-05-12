@@ -8,6 +8,8 @@ _Produced by: Refine cost-benefit model with design-era data_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the ROI model itself is optional
+
 ## What this is
 
 The Discover-era [ROI model](../../1-discover/artifacts/roi-model.md) refreshed with design-era evidence: more accurate build cost, real run-cost shape, vendor pricing, adoption-curve updates, and the current scope baseline. It is the financial model the organization re-ratifies before committing to Build.

@@ -8,6 +8,8 @@ _Produced by: Execute sales process cutover_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no sales motion
+
 ## What this is
 
 The sales motion running live on launch day — CRM updated with new products and SKUs, quoting/CPQ configured, deal-desk rules in place, compensation plans signed, and the pipeline engine pointing the right opportunities at the right reps.

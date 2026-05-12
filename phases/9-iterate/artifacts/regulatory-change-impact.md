@@ -8,6 +8,8 @@ _Produced by: Regulatory change monitoring_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when regulated; otherwise skip
+
 ## What this is
 
 An assessment of emerging or changing regulations that affect the product — AI rules, data-residency mandates, privacy changes, industry-specific obligations — and the work required to stay compliant.

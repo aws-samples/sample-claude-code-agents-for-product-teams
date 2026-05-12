@@ -8,6 +8,8 @@ _Produced by: Persona / target user definition_
 
 **Stakeholders:** Business Analyst
 
+**Accelerated MVP:** slim — a single named target user is enough; expand once real usage data arrives
+
 ## What this is
 
 Evidence-based archetypes of the people the product is for — their goals, contexts, constraints, and jobs-to-be-done. Personas are not marketing posters; they are working tools that shape what gets built, tested, and supported.

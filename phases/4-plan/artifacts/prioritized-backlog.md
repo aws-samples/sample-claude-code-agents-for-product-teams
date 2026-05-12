@@ -8,6 +8,8 @@ _Produced by: Manage product backlog_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — there has to be a "next thing"
+
 ## What this is
 
 The ordered queue of everything the team might build, ranked by value and sequenced for delivery. It is the single source of truth for "what's next" — features, enablers, tech debt, and fixes all live here with explicit priority.

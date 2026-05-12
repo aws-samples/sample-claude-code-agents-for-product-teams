@@ -8,6 +8,8 @@ _Produced by: Pricing & packaging decision_
 
 **Stakeholders:** Product Owner, Product Sponsor
 
+**Accelerated MVP:** optional when the MVP isn't monetized
+
 ## What this is
 
 The approved commercial model at launch: what bundles/tiers exist, list and floor prices, unit of value, add-ons, trial and discount policy, and how billing reconciles to usage. Owned jointly by PMM, PO, and Sponsor.

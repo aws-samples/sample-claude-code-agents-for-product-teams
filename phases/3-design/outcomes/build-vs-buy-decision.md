@@ -6,6 +6,8 @@ _Produced by: Approve build-vs-buy & vendor decisions_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** required — the decision is real even when the write-up is slim
+
 ## What this is
 
 The decision to build a capability in-house, buy it from a vendor, partner for it, or use an existing enterprise capability — with the rationale recorded.

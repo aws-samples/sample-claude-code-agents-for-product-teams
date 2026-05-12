@@ -8,6 +8,8 @@ _Produced by: Internal all-hands launch communication_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a short Slack or email to the company is enough
+
 ## What this is
 
 The Sponsor's all-hands message announcing launch to the company: what shipped, who built it, why it matters, and what every team should do next. It is equal parts recognition, alignment, and call-to-action.

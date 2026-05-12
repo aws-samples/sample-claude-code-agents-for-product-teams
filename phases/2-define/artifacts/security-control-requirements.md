@@ -8,6 +8,8 @@ _Produced by: Security & compliance requirements derivation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when the data-sensitivity flag fires; otherwise slim to "standard platform controls"
+
 ## What this is
 
 The specific security controls the product must implement, derived from regulations, data classification, threat exposure, and the org's control framework. Each control is expressed as a testable requirement the rest of the team can design and verify against.

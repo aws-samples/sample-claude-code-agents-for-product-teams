@@ -8,6 +8,8 @@ _Produced by: User / problem validation_
 
 **Stakeholders:** UI/UX Designer
 
+**Accelerated MVP:** slim — 5 customer conversations beats a formal research report; skip if the team already operates in this domain
+
 ## What this is
 
 A crisp statement of the user problem, supported by enough primary evidence that the team can defend "this problem is real, painful, and unmet." It converts the opening hunch in the [opportunity brief](opportunity-brief.md) into something the org is willing to spend Define-phase money on.

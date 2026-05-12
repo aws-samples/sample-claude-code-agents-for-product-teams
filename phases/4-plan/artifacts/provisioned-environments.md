@@ -8,6 +8,8 @@ _Produced by: Infrastructure / environment provisioning_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the MVP has to run somewhere
+
 ## What this is
 
 Working dev, test, staging, and prod environments — provisioned as code, with network, IAM, data, observability, and secrets wiring in place. The record captures what exists, how it was built, and how to rebuild it.

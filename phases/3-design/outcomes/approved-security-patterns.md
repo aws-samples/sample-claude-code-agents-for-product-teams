@@ -6,6 +6,8 @@ _Produced by: Secure design pattern selection_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** slim — "we're using the platform's defaults" is a valid approved pattern
+
 ## What this is
 
 Security & Compliance and Architecture have agreed which of the enterprise's paved-road security patterns apply to this product (auth, secrets, encryption, network, logging).

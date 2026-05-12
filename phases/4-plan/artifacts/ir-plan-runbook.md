@@ -8,6 +8,8 @@ _Produced by: Incident response plan_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — "who pages whom, where the runbook lives" in one page is enough
+
 ## What this is
 
 The security incident response plan and its operational runbook — roles, severities, detection-to-containment steps, comms, legal and regulator notification paths, and evidence preservation. Written before you need it, rehearsed before launch.

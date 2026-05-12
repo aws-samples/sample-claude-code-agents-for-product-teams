@@ -8,6 +8,8 @@ _Produced by: Technical design guidance & pairing_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — recorded decisions in ADRs or the work item
+
 ## What this is
 
 The record of working sessions where the Architect engages directly with developers on implementation-level design — pairing, whiteboarding, pattern selection, reviewing non-trivial changes before they're written. Lightweight notes, not formal documents.

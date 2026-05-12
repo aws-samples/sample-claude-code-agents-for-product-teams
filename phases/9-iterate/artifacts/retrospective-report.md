@@ -8,6 +8,8 @@ _Produced by: Post-launch review / retrospective_
 
 **Stakeholders:** Product Sponsor
 
+**Accelerated MVP:** required — every iteration should retro
+
 ## What this is
 
 The post-launch retrospective write-up covering the whole initiative — what went well, what didn't, surprises, and specific actions to change next time. Facilitated by PM, participated by every role swim lane.

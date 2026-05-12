@@ -8,6 +8,8 @@ _Produced by: Process change rollout to impacted business teams_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP doesn't change business processes
+
 ## What this is
 
 Evidence that the to-be business processes documented in Define have actually been rolled out to the internal teams affected — billing, legal, ops, support, finance. The product changed; the company's operating procedures followed.

@@ -6,6 +6,8 @@ _Produced by: Scope discipline / change control_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** slim — PO calls on scope changes, captured in the backlog
+
 ## What this is
 
 A record of every scope change the Sponsor and PO have decided on during build: add, drop, reshape — with rationale and impact.

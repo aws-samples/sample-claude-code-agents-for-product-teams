@@ -8,6 +8,8 @@ _Produced by: Tag / categorize support tickets_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when ticket volume is low
+
 ## What this is
 
 The support ticket corpus enriched with consistent tags — product area, feature, persona, severity, root-cause class, sentiment — so that analysis can slice the data reliably. The dataset behind the VoC trend analysis.

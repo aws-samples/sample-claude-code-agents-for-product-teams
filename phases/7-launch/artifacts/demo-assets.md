@@ -8,6 +8,8 @@ _Produced by: Create sample data & demos_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when no external demos are planned
+
 ## What this is
 
 Purpose-built demo environments and sample data that make the product show well — seeded tenants, realistic example datasets, pre-configured dashboards, and scripted happy-path flows that reliably exercise the pitch story.

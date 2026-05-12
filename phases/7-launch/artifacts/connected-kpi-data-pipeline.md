@@ -8,6 +8,8 @@ _Produced by: Wire KPI events into dashboard_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** required — the dashboard has to be fed
+
 ## What this is
 
 The live data path from product instrumentation into the KPI dashboard — event emission, ingestion, transformation, and rendering. Proven end-to-end with real production events, not mocks.

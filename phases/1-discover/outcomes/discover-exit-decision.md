@@ -4,6 +4,8 @@ _Produced by: Discover stage-gate review_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** slim — an explicit "we're building this" is enough; skip the formal gate
+
 ## What this is
 
 A formal go / no-go gate. The Sponsor decides whether the opportunity is worth defining in detail. Discover ends here; Define only begins with a go.

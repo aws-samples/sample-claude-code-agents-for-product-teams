@@ -8,6 +8,8 @@ _Produced by: Security monitoring & SIEM operations_
 
 **Stakeholders:** Site Reliability Engineer
 
+**Accelerated MVP:** required when data-sensitive; otherwise slim to platform defaults
+
 ## What this is
 
 The detection rules and alert stream from SIEM, EDR, CSPM, WAF, and identity platforms — tuned to catch abuse, intrusion, misconfiguration, and data-exfiltration patterns relevant to this product. Paged to the security on-call, not broadcast.

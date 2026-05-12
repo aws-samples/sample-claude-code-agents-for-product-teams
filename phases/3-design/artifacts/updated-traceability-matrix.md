@@ -8,6 +8,8 @@ _Produced by: Update traceability (requirements → design)_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the traceability matrix itself is optional
+
 ## What this is
 
 The Define-era [traceability matrix](../../2-define/artifacts/traceability-matrix.md) extended with design-artifact links — each requirement now traces to the specific design doc, component, or API that realizes it. It is the backbone of "can we prove design covers requirements."

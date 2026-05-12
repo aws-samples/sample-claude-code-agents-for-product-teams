@@ -6,6 +6,8 @@ _Produced by: Approve delivery baseline_
 
 **Stakeholders:** Project Manager
 
+**Accelerated MVP:** slim — a committed first-iteration window is enough
+
 ## What this is
 
 The Sponsor and PM have formally baselined the plan: schedule, milestones, and budget. Any deviation now goes through change control.

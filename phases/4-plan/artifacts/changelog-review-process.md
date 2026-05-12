@@ -8,6 +8,8 @@ _Produced by: Change-review process setup_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — "every PR gets a reviewer" is the review process
+
 ## What this is
 
 The defined process for reviewing changes flowing toward production — how PRs, infra changes, and dependency updates are classified, who reviews, what SLAs apply, and how changelogs are curated for release notes and audit.

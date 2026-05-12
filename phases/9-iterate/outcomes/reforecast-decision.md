@@ -4,6 +4,8 @@ _Produced by: Approve reforecast decision_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** optional when there was no formal forecast
+
 ## What this is
 
 When actual performance diverges from the original business case, the Sponsor decides whether to accept the BA's reforecast, adjust scope, or kill.

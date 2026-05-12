@@ -4,6 +4,8 @@ _Produced by: Approve Sev-1 external comms_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** required when a customer-impacting incident occurs; otherwise skip
+
 ## What this is
 
 For Sev-1 incidents, the Sponsor approves the external customer communication before it is sent.

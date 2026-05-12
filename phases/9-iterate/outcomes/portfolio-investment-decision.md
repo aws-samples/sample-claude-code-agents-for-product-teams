@@ -4,6 +4,8 @@ _Produced by: Kill / pivot / double-down decision_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** required — "iterate, pivot, double-down, or sunset" is the Iterate decision
+
 ## What this is
 
 The Sponsor's decision on future investment in this product: kill, pivot, or double-down — informed by real performance vs. the business case.

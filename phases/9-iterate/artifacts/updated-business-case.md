@@ -8,6 +8,8 @@ _Produced by: Business-case reforecast_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the business case itself was accelerated away
+
 ## What this is
 
 The reforecast business case — updated with actuals from Operate and Iterate, revised assumptions, and a go-forward projection. Replaces the original approved business case as the reference for ongoing investment decisions.

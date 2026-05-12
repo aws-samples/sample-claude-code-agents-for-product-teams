@@ -6,6 +6,8 @@ _Produced by: Security & compliance review_
 
 **Stakeholders:** Architect, Site Reliability Engineer
 
+**Accelerated MVP:** required when the applicable-regulations list is non-empty; otherwise slim
+
 ## What this is
 
 Security & Compliance approves the design, threat model, and pattern choices as sufficient to meet the applicable regulations and the organization's security bar.

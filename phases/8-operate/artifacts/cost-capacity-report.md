@@ -8,6 +8,8 @@ _Produced by: Cost / capacity monitoring_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** slim — a weekly glance at the cloud bill is enough
+
 ## What this is
 
 Joint SRE/Architect view of what the product costs to run and how close it is to capacity ceilings — spend by service, unit-cost trend, headroom at current growth, and optimization opportunities. Produced on an operating cadence.

@@ -8,6 +8,8 @@ _Produced by: Verify KPI telemetry emission_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** required — MVP evaluation depends on it
+
 ## What this is
 
 Evidence that every KPI-critical event, metric, or log is emitting correctly in staging, with the right shape, cardinality, and pipeline path — end-to-end from product code to the analytics sink. Not "logs exist"; "KPI can be computed."

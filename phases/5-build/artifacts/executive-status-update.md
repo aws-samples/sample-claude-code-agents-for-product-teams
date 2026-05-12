@@ -8,6 +8,8 @@ _Produced by: Executive checkpoint review_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no executive audience
+
 ## What this is
 
 The Sponsor's concise, recurring briefing to executive peers — board, executive staff, portfolio steering — on what's happening in Build. Progress against baseline, emerging risks, decisions needed, and asks for air-cover. Shorter than the PM's status report, pitched one level higher.

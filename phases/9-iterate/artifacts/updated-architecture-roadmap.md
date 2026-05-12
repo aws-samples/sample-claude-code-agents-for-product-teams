@@ -8,6 +8,8 @@ _Produced by: Architecture roadmap refresh_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — ADRs covering the next moves are enough
+
 ## What this is
 
 The forward-looking architectural plan, refreshed from production learnings and the updated product roadmap. What needs to evolve, consolidate, or retire over the next cycles to keep the system fit-for-enterprise on cost, scale, evolvability, and compliance.

@@ -8,6 +8,8 @@ _Produced by: Architectural launch signals monitoring_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — the KPI and telemetry dashboard covers this
+
 ## What this is
 
 The focused set of architectural telemetry watched during launch — the signals that tell you whether the system is behaving the way the design assumed under real traffic. Not every dashboard, just the ones that would trigger a rollback or redesign if they broke.

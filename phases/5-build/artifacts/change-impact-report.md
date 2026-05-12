@@ -8,6 +8,8 @@ _Produced by: Scope-change impact analysis_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is contained to its own codebase
+
 ## What this is
 
 The BA's analysis of a proposed scope change — what it affects across requirements, tests, data, processes, and downstream consumers, plus the benefits and risks of doing or not doing it. Feeds the change-control package.

@@ -8,6 +8,8 @@ _Produced by: Scope-change impact coordination_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when change control is the PO's call
+
 ## What this is
 
 The bundled artifact presented to decision-makers for a scope, schedule, or budget change — consolidates the BA's change impact report, Architect's technical impact analysis, cost delta, risk posture, and recommended decision with alternatives.

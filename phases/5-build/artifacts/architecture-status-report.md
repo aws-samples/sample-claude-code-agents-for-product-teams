@@ -8,6 +8,8 @@ _Produced by: Architecture status input_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when architecture evolves inside the squad
+
 ## What this is
 
 The Architect's periodic status input to the PM's status report — progress against the technical milestone plan, NFR posture, emerging technical risks, and architecture-level decisions needed. The engineering view the PM can't generate alone.

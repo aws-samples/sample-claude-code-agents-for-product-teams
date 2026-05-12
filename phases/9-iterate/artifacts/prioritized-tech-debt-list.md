@@ -8,6 +8,8 @@ _Produced by: Technical debt backlog grooming_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** slim — a short list kept in the backlog tool is enough
+
 ## What this is
 
 The ranked list of technical-debt items — latent architectural issues, shortcut workarounds, outdated patterns, flaky tests — with evidence of cost to velocity, reliability, or security. The non-feature work engineering argues for in planning.

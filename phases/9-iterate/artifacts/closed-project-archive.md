@@ -8,6 +8,8 @@ _Produced by: Project closure_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is ongoing work rather than a closed project
+
 ## What this is
 
 The formal closure package: final budget and schedule reconciliation, artifact archive, open-item handoff to steady-state owners, and the signed closure approval. The moment "the project" ends as an organizational entity.

@@ -6,6 +6,8 @@ _Produced by: Approve launch window / date_
 
 **Stakeholders:** Release Manager
 
+**Accelerated MVP:** required — a date forces completion
+
 ## What this is
 
 The Sponsor and Release Manager commit to a specific launch date, making the internal and external commitments that follow it possible.

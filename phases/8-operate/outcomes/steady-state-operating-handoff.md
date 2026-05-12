@@ -4,6 +4,8 @@ _Produced by: Hypercare transition to steady-state_
 
 **Primary owner:** Project Manager
 
+**Accelerated MVP:** optional when the squad never stops operating the MVP
+
 ## What this is
 
 The PM formally transitions the initiative from project-mode (with governance, RAID log, change control) to steady-state operations.

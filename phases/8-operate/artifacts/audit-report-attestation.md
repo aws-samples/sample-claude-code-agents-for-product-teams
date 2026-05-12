@@ -8,6 +8,8 @@ _Produced by: Periodic compliance audit_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when no formal audit applies
+
 ## What this is
 
 The formal audit report or third-party attestation (SOC 2 Type II, ISO 27001, PCI, HIPAA, FedRAMP) covering the product — scope, controls tested, exceptions found, management response, and any follow-up commitments.

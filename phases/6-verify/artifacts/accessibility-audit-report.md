@@ -8,6 +8,8 @@ _Produced by: Accessibility testing_
 
 **Stakeholders:** UI/UX Designer
 
+**Accelerated MVP:** required when the MVP is publicly accessible; otherwise defer
+
 ## What this is
 
 The formal accessibility audit of the built product — WCAG (or equivalent) conformance, screen-reader flows, keyboard nav, contrast, motion, and assistive-tech compatibility — with findings, severity, and remediation state.

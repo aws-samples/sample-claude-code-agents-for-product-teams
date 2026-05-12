@@ -8,6 +8,8 @@ _Produced by: Research technical options_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — an ADR comparing the shortlist suffices
+
 ## What this is
 
 A structured evaluation of the viable technical approaches for the solution — stacks, patterns, deployment models, build-vs-buy options — scored against NFRs, cost, time-to-value, and strategic fit. It is the decision artifact that precedes the architecture document.

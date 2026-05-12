@@ -8,6 +8,8 @@ _Produced by: Define security & compliance controls in pipeline_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — SAST and SCA in CI are cheap insurance
+
 ## What this is
 
 The concrete set of security controls embedded in the CI/CD pipeline — scan types, thresholds, signing, attestations, secret detection, branch protection — and the automation that enforces them without human effort per PR.

@@ -8,6 +8,8 @@ _Produced by: Win/loss analysis_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no sales motion
+
 ## What this is
 
 Structured analysis of recent deals won and lost — why customers chose you or didn't, which competitors showed up, which features mattered, which objections killed deals. Sourced from interviews and closed-opportunity data.

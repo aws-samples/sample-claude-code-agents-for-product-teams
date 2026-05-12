@@ -8,6 +8,8 @@ _Produced by: Post-deploy production smoke tests_
 
 **Stakeholders:** Release Manager
 
+**Accelerated MVP:** required — the MVP has to actually work in prod
+
 ## What this is
 
 The post-deploy smoke-test result proving that critical paths work for real users on production configuration — login, core transactions, integrations, payment, telemetry emission. Short, targeted, non-destructive.

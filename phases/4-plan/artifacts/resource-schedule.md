@@ -8,6 +8,8 @@ _Produced by: Resource tracking & scheduling_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the squad is dedicated to the MVP
+
 ## What this is
 
 The time-phased allocation plan for people and specialist resources across iterations — who is on, at what percentage, when specialists rotate in, and where there are planned troughs or peaks.

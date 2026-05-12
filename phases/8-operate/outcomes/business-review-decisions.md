@@ -6,6 +6,8 @@ _Produced by: Business review meeting_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** optional when decisions happen in-squad
+
 ## What this is
 
 Decisions made in the recurring business review (Sponsor + PO + BA): on investment, pricing, expansion, or course-correction.

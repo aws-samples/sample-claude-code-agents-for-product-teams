@@ -6,6 +6,8 @@ _Produced by: Unblock cross-org dependencies_
 
 **Stakeholders:** Project Manager
 
+**Accelerated MVP:** required — blocks still need breaking
+
 ## What this is
 
 A record of cross-organizational dependencies the Sponsor and PM have cleared — the other teams, vendors, or platforms the project needed to lean on.

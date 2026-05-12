@@ -4,6 +4,8 @@ _Produced by: Real-time launch metrics monitoring_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** required — someone has to watch it go out
+
 ## What this is
 
 Real-time metrics and health signals visible to the Sponsor and launch team during the go-live window.

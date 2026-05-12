@@ -8,6 +8,8 @@ _Produced by: Performance / load testing_
 
 **Stakeholders:** Site Reliability Engineer, Architect
 
+**Accelerated MVP:** slim — "can it handle the MVP cohort" is the test
+
 ## What this is
 
 The outcome of load, stress, soak, and spike tests against the production-like environment — latency distributions, throughput, resource saturation, and failure-mode behavior versus the NFR and SLO targets.

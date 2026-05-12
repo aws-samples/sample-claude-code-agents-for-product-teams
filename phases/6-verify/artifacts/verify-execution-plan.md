@@ -8,6 +8,8 @@ _Produced by: Verify-phase coordination_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a checklist of what gets tested when is enough
+
 ## What this is
 
 The PM's sequenced plan for the Verify phase — which test campaigns run when, environment contention, defect-fix windows, readiness checkpoint dates, and the path to launch-date commitment. Coordinates many roles whose work overlaps tightly.

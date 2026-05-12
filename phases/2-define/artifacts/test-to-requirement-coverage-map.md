@@ -8,6 +8,8 @@ _Produced by: Map test cases to requirements_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when acceptance criteria are embedded in the tests themselves
+
 ## What this is
 
 A matrix showing which test cases cover which requirements and acceptance criteria, with a coverage score. It is how QA shows the team exactly where confidence is earned and where risk still lives.

@@ -6,6 +6,8 @@ _Produced by: Progress review & increment acceptance_
 
 **Stakeholders:** Project Manager
 
+**Accelerated MVP:** required — someone has to say "this is the MVP, we're done for now"
+
 ## What this is
 
 Work delivered during an iteration has been inspected against acceptance criteria and formally accepted by the Product Owner and Project Manager.

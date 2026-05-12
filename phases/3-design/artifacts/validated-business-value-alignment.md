@@ -8,6 +8,8 @@ _Produced by: Design-to-business-case alignment review_
 
 **Stakeholders:** Product Owner, Business Analyst
 
+**Accelerated MVP:** optional when the squad confirms alignment in a working session
+
 ## What this is
 
 A Design-phase review that confirms the emerging UX, architecture, scope, and cost are still consistent with the approved business case — or surfaces the delta before Build commitment. It is the checkpoint that prevents the build team from faithfully delivering a product whose economics no longer work.

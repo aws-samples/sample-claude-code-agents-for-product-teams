@@ -4,6 +4,8 @@ _Produced by: Launch stage-gate coordination_
 
 **Primary owner:** Project Manager
 
+**Accelerated MVP:** optional when the go-no-go is a PO and tech-lead conversation
+
 ## What this is
 
 The PM-assembled package that the go/no-go meeting reviews: status, readiness evidence, known issues, risk posture, rollback plan.

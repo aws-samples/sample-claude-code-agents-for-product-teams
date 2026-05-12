@@ -8,6 +8,8 @@ _Produced by: Team onboarding & ramp-up_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the team already knows the domain and tools
+
 ## What this is
 
 Evidence the full delivery team — engineers, QA, designers, and specialists — is in-seat, has access, knows the domain, and can start shipping on day one of Build. Captured as a checklist, not a narrative.

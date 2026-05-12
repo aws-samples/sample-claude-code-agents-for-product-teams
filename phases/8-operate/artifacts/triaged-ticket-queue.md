@@ -8,6 +8,8 @@ _Produced by: Triage customer support issues_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a shared channel for early-user issues is enough
+
 ## What this is
 
 The operational support queue — incoming tickets categorized, prioritized, and routed to the right tier or specialist. The living artifact that Support manages in real time against SLAs.

@@ -8,6 +8,8 @@ _Produced by: Charter development facilitation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the product charter itself is optional
+
 ## What this is
 
 The pre-approval working draft of the product charter — content substantially complete, stakeholders consulted, Sponsor walk-through staged. It becomes the [signed product charter](signed-product-charter.md) once it lands the Sponsor's signature.

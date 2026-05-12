@@ -8,6 +8,8 @@ _Produced by: Launch comms execution_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is a private beta
+
 ## What this is
 
 The record of launch-day communications that actually went out — internal all-hands, customer notices, status page updates, partner alerts, press releases, and social posts — with timestamps, audiences, and sign-off trail.

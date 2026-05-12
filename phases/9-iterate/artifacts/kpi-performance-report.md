@@ -8,6 +8,8 @@ _Produced by: KPI / success-metric tracking_
 
 **Stakeholders:** Business Analyst
 
+**Accelerated MVP:** required — this is the primary MVP learning
+
 ## What this is
 
 The PO's and BA's joint rollup of product KPIs — adoption, retention, activation, revenue-per-user, task completion — against targets set in Define. Narrated, not just graphed.

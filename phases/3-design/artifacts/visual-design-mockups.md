@@ -8,6 +8,8 @@ _Produced by: Create visual design_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — mid-fidelity is enough for a first iteration
+
 ## What this is
 
 Pixel-level visual designs for the primary screens and states of the product — in the agreed design tool, aligned to the design system, and at the fidelity engineering needs to build. Mockups show what it will look like; the specification says how it should behave.

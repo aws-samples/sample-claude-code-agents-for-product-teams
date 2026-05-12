@@ -8,6 +8,8 @@ _Produced by: Prioritize bug fixes_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — bugs are the first iteration's debt
+
 ## What this is
 
 The PO-ordered backlog of customer-reported and internally-found bugs, ranked by impact, reach, and severity. The list engineering pulls from when capacity is allocated to fixes rather than new features.

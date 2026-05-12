@@ -8,6 +8,8 @@ _Produced by: Technical skills & roles requirement_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the existing squad covers the MVP
+
 ## What this is
 
 A role-by-role breakdown of the technical skills the approved architecture needs — languages, frameworks, platforms, specialist disciplines — mapped against when in the plan each skill must be on-seat. It's the Architect's input to staffing decisions, not a generic job-requisition doc.

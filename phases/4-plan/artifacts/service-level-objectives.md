@@ -8,6 +8,8 @@ _Produced by: SLA / SLO definition_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** slim — a single availability target plus an error-rate ceiling is enough
+
 ## What this is
 
 The measurable reliability targets the service will commit to — SLIs (what you measure), SLOs (the target), error budgets (how much failure you tolerate), and any external SLA commitments that depend on them.

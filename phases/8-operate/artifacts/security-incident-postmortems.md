@@ -8,6 +8,8 @@ _Produced by: Security incident response_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when a security incident occurs
+
 ## What this is
 
 The post-incident write-ups for security events — detected abuse, attempted intrusion, data exposure, misconfiguration, insider misuse. Sister document to reliability postmortems, with tighter confidentiality handling and compliance-driven reporting.

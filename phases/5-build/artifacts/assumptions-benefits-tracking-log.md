@@ -8,6 +8,8 @@ _Produced by: In-flight benefits & assumptions tracking_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — one doc listing "assumptions holding or broken" is enough
+
 ## What this is
 
 The running check on the business-case assumptions and expected benefits as Build reveals new information — which assumptions still hold, which have broken, and what that means for the ROI commitment. Sits under the benefits plan but gets active maintenance through Build.

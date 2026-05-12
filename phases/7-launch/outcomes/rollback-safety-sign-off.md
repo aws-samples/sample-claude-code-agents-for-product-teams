@@ -4,6 +4,8 @@ _Produced by: Architectural rollback safety review_
 
 **Primary owner:** Architect
 
+**Accelerated MVP:** required — rollback is a first-iteration safety net
+
 ## What this is
 
 The Architect's sign-off that a rollback, if needed, will not corrupt data, break downstream systems, or create irreversible state.

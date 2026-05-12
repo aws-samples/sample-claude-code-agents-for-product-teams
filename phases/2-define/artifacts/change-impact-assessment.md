@@ -8,6 +8,8 @@ _Produced by: Change impact analysis_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** optional when the MVP has no downstream-system impact
+
 ## What this is
 
 A structured analysis of who and what is affected by introducing the product — people, processes, systems, policies, partners — and what work is needed for each to absorb the change. This is distinct from the in-flight "change control" mechanism; it is pre-build impact scoping.

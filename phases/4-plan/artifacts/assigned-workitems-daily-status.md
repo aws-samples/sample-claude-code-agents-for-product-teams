@@ -8,6 +8,8 @@ _Produced by: Assign & manage workitems_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the squad uses a standup and a board directly
+
 ## What this is
 
 The live view of who owns what right now — work items assigned to people, their current state, and the daily standup notes that capture progress and blockers. It's the signal you watch every day to keep the iteration on track.

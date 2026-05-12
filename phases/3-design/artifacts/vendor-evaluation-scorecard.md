@@ -8,6 +8,8 @@ _Produced by: Vendor / buy option evaluation_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** optional when no vendor is in scope
+
 ## What this is
 
 A structured scoring of candidate vendors for any buy / partner component of the solution — functional fit, NFR fit, commercial terms, security/compliance posture, and strategic fit. It is the evidence behind "we picked vendor X" that finance, procurement, and the Sponsor will scrutinize.

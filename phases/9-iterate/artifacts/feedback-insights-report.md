@@ -8,6 +8,8 @@ _Produced by: Aggregate & analyze feedback_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** slim — categorized user feedback is enough
+
 ## What this is
 
 The synthesized analysis across all customer-feedback streams — support tickets, NPS, interviews, win/loss, sales field notes, community — distilled into themes, severity, and opportunity. The organization's unified Voice of Customer.

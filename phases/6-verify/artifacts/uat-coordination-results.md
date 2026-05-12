@@ -8,6 +8,8 @@ _Produced by: UAT coordination with business users_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when beta users self-serve
+
 ## What this is
 
 The BA's run of UAT with business users — planning, scenario coverage, session logs, findings, and the structured outcome that feeds UAT/beta sign-off. Evidence that real users, not just QA, validated the product against intent.

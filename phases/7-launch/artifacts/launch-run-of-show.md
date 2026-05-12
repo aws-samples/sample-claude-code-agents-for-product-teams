@@ -8,6 +8,8 @@ _Produced by: Launch day coordination / command center_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a one-page timeline is enough
+
 ## What this is
 
 The minute-by-minute choreography of launch day — who does what, in what order, with which decision points, from pre-launch checks to hypercare standdown. It is the script for the command center.

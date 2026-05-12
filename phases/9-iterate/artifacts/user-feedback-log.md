@@ -8,6 +8,8 @@ _Produced by: Document user feedback_
 
 **Stakeholders:** Sales & Marketing
 
+**Accelerated MVP:** slim — a shared doc or channel collecting feedback is enough
+
 ## What this is
 
 The captured log of qualitative feedback users volunteer outside support tickets — feature requests, praise, complaints, anecdotes from CSM calls, sales conversations, and community channels. Structured enough to be analyzed later.

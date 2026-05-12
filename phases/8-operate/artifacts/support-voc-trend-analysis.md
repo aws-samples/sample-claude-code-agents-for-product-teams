@@ -8,6 +8,8 @@ _Produced by: Support data analysis_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when VoC volume is low enough to read
+
 ## What this is
 
 The analytical view over the tagged support-ticket dataset — trends by category, severity, persona, and release; emerging issues; deflection rate; themes extracted from verbatims. Turns the ticket stream into Voice of Customer signal for Product.

@@ -8,6 +8,8 @@ _Produced by: Curate documentation for customers_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP's user base is small enough for direct help
+
 ## What this is
 
 The curated, searchable knowledge base customers hit first when they have questions — how-tos, troubleshooting articles, FAQs, video walkthroughs, and the embedded help that deflects tickets. Continuously fed from support resolutions and product changes.

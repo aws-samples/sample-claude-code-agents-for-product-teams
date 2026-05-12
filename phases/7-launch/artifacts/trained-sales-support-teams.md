@@ -8,6 +8,8 @@ _Produced by: Internal enablement / training_
 
 **Stakeholders:** Customer Support
 
+**Accelerated MVP:** optional when no sales or support motion exists yet
+
 ## What this is
 
 The evidence that the sales and support workforce is certified and ready to sell and service the new product — training completion records, certification scores, demo pass-offs, and role-specific readiness checklists.

@@ -8,6 +8,8 @@ _Produced by: Access reviews_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — quarterly access review is enough
+
 ## What this is
 
 The periodic (usually quarterly) review of who has access to what — production systems, data stores, admin consoles, privileged roles — with manager sign-off on continued need and removal of stale access.

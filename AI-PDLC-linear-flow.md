@@ -205,7 +205,8 @@ Goal: turn the validated opportunity into approved requirements, scope, NFRs, KP
 - [commercial model decision](phases/2-define/outcomes/commercial-model-decision.md)
 - [product roadmap](phases/2-define/artifacts/product-roadmap.md)
 - [KPI definitions](phases/2-define/artifacts/kpi-definitions.md)
-- [MVP scope statement](phases/2-define/artifacts/mvp-scope-statement.md)
+- [
+- scope statement](phases/2-define/artifacts/mvp-scope-statement.md)
 - [requirements document](phases/2-define/artifacts/requirements-document.md)
 - [approved requirements](phases/2-define/outcomes/approved-requirements.md)
 - [testable acceptance criteria](phases/2-define/artifacts/testable-acceptance-criteria.md)
@@ -398,6 +399,7 @@ Goal: produce working, tested, instrumented increments that meet the Definition 
 - Process improvement review produces [process improvement actions](phases/5-build/artifacts/process-improvement-actions.md) *([Project Manager](#8-project-manager-delivery))*
 - Security scanning (SAST/SCA) produces [vulnerability scan report](phases/5-build/artifacts/vulnerability-scan-report.md) *([Security & Compliance](#6-security-compliance), [Developer](#9-developer))*
 - Vulnerability triage & remediation SLA tracking produces [triaged vulnerabilities](phases/5-build/artifacts/triaged-vulnerabilities.md) *([Security & Compliance](#6-security-compliance))*
+- MVP delivery produces [MVP](phases/5-build/artifacts/mvp.md) *([Developer](#9-developer), [Product Owner](#2-product-owner))*
 - Review & code workitems produces [implemented workitems](phases/5-build/artifacts/implemented-workitems.md) *([Developer](#9-developer))*
 - New feature development produces [feature code](phases/5-build/artifacts/feature-code.md) *([Developer](#9-developer))*
 - Code review produces [reviewed code](phases/5-build/artifacts/reviewed-code.md) *([Developer](#9-developer), [Security & Compliance](#6-security-compliance))*
@@ -436,6 +438,7 @@ Goal: produce working, tested, instrumented increments that meet the Definition 
 - [process improvement actions](phases/5-build/artifacts/process-improvement-actions.md)
 - [vulnerability scan report](phases/5-build/artifacts/vulnerability-scan-report.md)
 - [triaged vulnerabilities](phases/5-build/artifacts/triaged-vulnerabilities.md)
+- [MVP](phases/5-build/artifacts/mvp.md)
 - [implemented workitems](phases/5-build/artifacts/implemented-workitems.md)
 - [feature code](phases/5-build/artifacts/feature-code.md)
 - [reviewed code](phases/5-build/artifacts/reviewed-code.md)

@@ -8,6 +8,8 @@ _Produced by: Project initiation / pre-kickoff coordination_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a one-pager of "why, who, what, when" suffices
+
 ## What this is
 
 A one-page logistics brief that the PM uses to coordinate the Discover phase itself — who is doing what, when the gate review is, what risks are live, and what the team needs from the Sponsor. It is not the product brief; it is the project brief for the Discover phase.

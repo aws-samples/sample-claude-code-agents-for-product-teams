@@ -8,6 +8,8 @@ _Produced by: Launch-readiness status reporting_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no governance audience
+
 ## What this is
 
 The rolled-up readiness pack the PM publishes on cadence through Verify — campaign progress, sign-offs landed and pending, top issues and defects, and the call-out for each role's blocking items. Feeds the Sponsor's launch-readiness assessment.

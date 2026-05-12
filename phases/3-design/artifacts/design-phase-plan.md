@@ -8,6 +8,8 @@ _Produced by: Design-phase schedule & resource coordination_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when design and build happen in the same iteration
+
 ## What this is
 
 The PM's working plan for running the Design phase — milestones, reviews, owners, dependencies, and risks — parallel to the Define-phase [initial project brief](../../1-discover/artifacts/initial-project-brief.md) but tuned for the Design-specific cadence.

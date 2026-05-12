@@ -8,6 +8,8 @@ _Produced by: Create marketing resources & battlecards_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is not externally marketed
+
 ## What this is
 
 The kit of sales-ready assets launching with the product — pitch deck, one-pagers, battlecards, demo scripts, objection handlers, website updates, and partner-facing collateral. Everything a seller or partner needs to explain and close.

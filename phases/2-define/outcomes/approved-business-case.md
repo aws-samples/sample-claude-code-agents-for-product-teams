@@ -4,6 +4,8 @@ _Produced by: Ratify business case_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** slim — re-confirming the back-of-napkin case is enough
+
 ## What this is
 
 The business case drafted in Discover is now formally ratified by the Product Sponsor as the financial contract for the initiative. All future decisions (scope, pricing, sunset) will be judged against this.

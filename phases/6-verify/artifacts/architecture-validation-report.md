@@ -8,6 +8,8 @@ _Produced by: Architecture validation in verify env_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the squad is its own architecture reviewer
+
 ## What this is
 
 The Architect's confirmation that the as-built, as-deployed system matches the approved architecture — components, integrations, NFR posture, data model — as validated in the Verify environment under realistic load and failure scenarios.

@@ -8,6 +8,8 @@ _Produced by: Iteration / milestone planning_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a next-iteration plan plus a rough second is enough
+
 ## What this is
 
 The near-term iteration schedule laid over the technical milestone plan — which iterations target which capabilities, capacity per iteration, demo and review cadence, and hand-off dates with other teams.

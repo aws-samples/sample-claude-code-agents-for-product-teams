@@ -8,6 +8,8 @@ _Produced by: Investigate production errors_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when incidents occur; otherwise skip
+
 ## What this is
 
 The structured write-up of a single production incident — what happened, who was affected, how it was detected, what was tried, and how it was resolved. Created contemporaneously during or immediately after the incident.

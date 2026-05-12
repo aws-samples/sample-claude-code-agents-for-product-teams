@@ -4,6 +4,8 @@ _Produced by: Sponsor/PO alignment facilitation_
 
 **Primary owner:** Project Manager
 
+**Accelerated MVP:** optional when decision authority is the squad's PO alone
+
 ## What this is
 
 The Product Sponsor and Product Owner have arrived at a shared view of the opportunity, the customer, and the bet they are being asked to make. This is not a document — it is a state of alignment that every downstream activity will reference.

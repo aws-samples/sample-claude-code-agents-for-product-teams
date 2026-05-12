@@ -8,6 +8,8 @@ _Produced by: New feature development_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the MVP is code
+
 ## What this is
 
 The actual application code that implements a feature — source, tests, migrations, config, and documentation as-code. The primary output of the Build phase and the medium in which most decisions ultimately live.

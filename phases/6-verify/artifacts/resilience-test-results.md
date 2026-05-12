@@ -8,6 +8,8 @@ _Produced by: Chaos / resilience testing_
 
 **Stakeholders:** QA/Tester
 
+**Accelerated MVP:** slim — one chaos or load scenario representing the MVP's worst case is enough
+
 ## What this is
 
 The evidence that the system behaves correctly under failure — node loss, dependency outage, network partition, slow-dep, resource exhaustion. Captures scenarios run, observed behavior, and the gaps between design expectations and tested reality.

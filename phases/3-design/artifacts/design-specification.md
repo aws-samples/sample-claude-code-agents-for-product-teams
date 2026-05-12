@@ -8,6 +8,8 @@ _Produced by: Create design specifications_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — component-level specs for the MVP screens only
+
 ## What this is
 
 The detailed, screen-by-screen (or flow-by-flow) specification of UX behavior — component usage, states, validation, empty/error/loading behavior, microcopy, motion, and accessibility requirements. It is the engineering-grade UX contract.

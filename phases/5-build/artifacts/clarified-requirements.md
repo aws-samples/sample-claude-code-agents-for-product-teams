@@ -8,6 +8,8 @@ _Produced by: Requirements clarification support_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — questions answered in-thread, linked from the work item
+
 ## What this is
 
 The ongoing answers to the requirements-questions-log — what the team asked during Build, how it was clarified, and how the underlying requirements or acceptance criteria changed as a result. Maintains the single source of truth even as nuance emerges.

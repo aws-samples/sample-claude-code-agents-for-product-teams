@@ -6,6 +6,8 @@ _Produced by: Commercial / delivery model decision_
 
 **Stakeholders:** Product Owner, Architect
 
+**Accelerated MVP:** optional when the MVP isn't commercialized
+
 ## What this is
 
 The Sponsor, PO, and Architect have decided how the product will be sold and delivered: SaaS vs. on-prem vs. hybrid, usage-based vs. subscription, direct vs. partner channel.

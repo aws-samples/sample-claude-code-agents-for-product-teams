@@ -8,6 +8,8 @@ _Produced by: Privacy / DPIA assessment_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when the MVP processes personal data
+
 ## What this is
 
 A structured assessment of how the product collects, uses, shares, retains, and safeguards personal data, and the residual risks to data subjects. Under GDPR and similar regimes, a DPIA (data protection impact assessment) is a legal requirement for higher-risk processing.

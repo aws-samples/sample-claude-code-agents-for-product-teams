@@ -8,6 +8,8 @@ _Produced by: Support process definition_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP has no external support motion
+
 ## What this is
 
 The end-to-end model of how customers will get help with the product — tiers, channels, SLAs, triage paths, escalation routes, knowledge-base structure, and staffing implications. It is the support equivalent of an architecture diagram.

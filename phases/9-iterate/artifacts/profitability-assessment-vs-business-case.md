@@ -8,6 +8,8 @@ _Produced by: Commercial performance review_
 
 **Stakeholders:** Business Analyst, Architect
 
+**Accelerated MVP:** optional when the MVP isn't monetized
+
 ## What this is
 
 The structured comparison of actual commercial performance — revenue, margin, CAC, LTV, payback — against the forecasts and assumptions baked into the approved business case at Discover/Define. Owned by Sponsor; authored with BA and Architect.

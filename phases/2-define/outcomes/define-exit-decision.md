@@ -6,6 +6,8 @@ _Produced by: Define stage-gate review_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** slim — an explicit "ready to build" is enough
+
 ## What this is
 
 The Define stage-gate. Sponsor and Architect decide whether the initiative is ready to move into detailed design and planning, or whether more discovery or refinement is needed.

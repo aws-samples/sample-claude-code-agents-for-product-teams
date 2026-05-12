@@ -8,6 +8,8 @@ _Produced by: Code review_
 
 **Stakeholders:** Security & Compliance
 
+**Accelerated MVP:** required — every change gets a second pair of eyes
+
 ## What this is
 
 Code that's been reviewed by a peer (and Security where risk warrants) against the team's review standard — correctness, maintainability, security, NFR conformance, test adequacy — with review comments resolved or explicitly deferred.

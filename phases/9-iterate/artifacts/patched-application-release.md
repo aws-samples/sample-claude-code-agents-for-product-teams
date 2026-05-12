@@ -8,6 +8,8 @@ _Produced by: Bugfix application updates_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when patches are being shipped
+
 ## What this is
 
 A shipped release that bundles bug fixes, minor enhancements, and dependency updates — the steady-state production cadence rather than a major feature launch. Versioned, released notes included, tested to the same bar as any other release.

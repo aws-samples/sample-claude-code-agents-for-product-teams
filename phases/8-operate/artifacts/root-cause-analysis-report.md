@@ -8,6 +8,8 @@ _Produced by: Root cause analysis_
 
 **Stakeholders:** Developer, Architect
 
+**Accelerated MVP:** required for Sev-1 postmortems; otherwise skip
+
 ## What this is
 
 The post-incident analysis that traces an outage back to its contributing causes (plural, usually) and identifies the systemic conditions that allowed it to happen. More than "the bug was here" — it is the "why did our system let this bug reach customers?"

@@ -6,6 +6,8 @@ _Produced by: Launch readiness review / go-no-go_
 
 **Stakeholders:** Release Manager, Product Sponsor
 
+**Accelerated MVP:** required — the explicit call to ship is needed
+
 ## What this is
 
 The final decision — go, no-go, or conditional — on whether to execute the launch. Owned by Sponsor, PO, and Release Manager.

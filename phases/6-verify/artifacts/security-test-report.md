@@ -8,6 +8,8 @@ _Produced by: Security testing / pen test_
 
 **Stakeholders:** QA/Tester
 
+**Accelerated MVP:** required when the MVP is external-facing or data-sensitive; otherwise platform scans suffice
+
 ## What this is
 
 The consolidated outcome of security testing — pen test, DAST, abuse-case exercises, control verification — against the production-like environment. Every finding has severity, owner, reproducibility, and remediation state.

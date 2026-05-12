@@ -6,6 +6,8 @@ _Produced by: Architecture strategic review_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** optional when there is no executive review layer
+
 ## What this is
 
 The Sponsor, together with the Architect, has executively approved the solution architecture as fit for strategy, cost, and enterprise ecosystem.

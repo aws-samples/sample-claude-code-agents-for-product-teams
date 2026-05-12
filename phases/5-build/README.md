@@ -16,7 +16,7 @@ Build ends when increments meet the Definition of Done with stakeholder acceptan
 
 ## Deliverables
 
-- **[`artifacts/`](artifacts/)** — 30 tangible outputs for this phase.
+- **[`artifacts/`](artifacts/)** — 31 tangible outputs for this phase.
 - **[`outcomes/`](outcomes/)** — 6 decisions or state changes.
 
 See the [Build activities list in the master flow](../../AI-PDLC-linear-flow.md#5-build) for the full activity-by-activity view.
@@ -64,6 +64,7 @@ Ready to enter [Verify](../6-verify/README.md) when all of the following are tru
 - [ ] [lint/static-analysis report](artifacts/lint-static-analysis-report.md) — Delta from previous run distinguishes new from pre-existing.
 - [ ] [managed vendor deliverables](artifacts/managed-vendor-deliverables.md) — Acceptance status and sign-off evidence are recorded per milestone.
 - [ ] [merged code in main branch](artifacts/merged-code-in-main-branch.md) — Pipeline record shows green tests, scans, and artifact signing.
+- [ ] [MVP](artifacts/mvp.md) — First iteration is tagged and every must-have from the MVP scope statement is working end-to-end.
 - [ ] [process improvement actions](artifacts/process-improvement-actions.md) — Every action item carries an owner, target date, and success signal.
 - [ ] [requirements questions log](artifacts/requirements-questions-log.md) — Resolved entries point to the clarified-requirements entry.
 - [ ] [reviewed change log](artifacts/reviewed-change-log.md) — Every change has a risk classification of routine, elevated, or emergency.

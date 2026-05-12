@@ -8,6 +8,8 @@ _Produced by: Data sensitivity early read_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — data sensitivity dictates which other artifacts become non-negotiable
+
 ## What this is
 
 An early, coarse read on the sensitivity of data the product will collect, process, store, or share. It flags the "this touches PHI" or "this handles payment data" reality before Architecture picks a stack that cannot support it.

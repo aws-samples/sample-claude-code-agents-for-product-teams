@@ -8,6 +8,8 @@ _Produced by: Evolve architecture from production learnings_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — ADR updates as learnings arrive
+
 ## What this is
 
 Concrete architectural changes introduced as a result of production learning — refined patterns, replaced components, new ADRs, updated NFR targets. Not a greenfield redesign; targeted evolutions to the system of record.

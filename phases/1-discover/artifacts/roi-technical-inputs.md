@@ -8,6 +8,8 @@ _Produced by: Technical cost & feasibility inputs_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no formal ROI model
+
 ## What this is
 
 The technical cost side of the ROI: rough-order-of-magnitude build effort, run cost, integration cost, and the cost of the non-functional commitments implied by the opportunity. This is what keeps the [ROI model](roi-model.md) honest on the cost side.

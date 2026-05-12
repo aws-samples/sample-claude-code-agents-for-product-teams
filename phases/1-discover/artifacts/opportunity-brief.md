@@ -8,6 +8,8 @@ _Produced by: Ideation / opportunity framing_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the vision statement and outcome hypothesis together name the opportunity
+
 ## What this is
 
 A short, one-to-two-page framing of an opportunity worth exploring — who the customer is, what is broken, why now, and the shape of the bet. It is the first durable artifact of the lifecycle and the seed every other Discover doc grows from.

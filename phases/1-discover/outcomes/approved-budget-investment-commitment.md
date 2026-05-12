@@ -4,6 +4,8 @@ _Produced by: Secure initiative funding_
 
 **Primary owner:** Product Sponsor
 
+**Accelerated MVP:** required — even a zero-dollar commitment is a decision worth recording
+
 ## What this is
 
 The Product Sponsor has secured and communicated the initial funding envelope for the initiative, including headcount, infrastructure, and external spend.

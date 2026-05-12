@@ -8,6 +8,8 @@ _Produced by: Data model / schema design_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — the schemas the MVP actually creates and reads; formalize as scale grows
+
 ## What this is
 
 The logical and physical data model — entities, attributes, relationships, keys, cardinality, constraints, retention, and the choice of store(s). It is the structural contract behind the product's behavior, and the thing that is most expensive to change after Build.

@@ -8,6 +8,8 @@ _Produced by: Roadmap refresh_
 
 **Stakeholders:** Product Sponsor
 
+**Accelerated MVP:** required — the MVP's evolution has to be planned
+
 ## What this is
 
 The revised product roadmap informed by what actually happened post-launch — what to continue, accelerate, pivot, or kill, and the sequencing of the next one to three cycles. Aligned with the Sponsor's portfolio investment decision.

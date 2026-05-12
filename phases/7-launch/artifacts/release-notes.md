@@ -8,6 +8,8 @@ _Produced by: Write release notes_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — even a one-line "v0.1: this exists" note
+
 ## What this is
 
 The canonical, customer-facing statement of what changed in this release: new capabilities, fixes, breaking changes, deprecations, and known issues. Short, scannable, and precise enough to be the single source of truth for "what shipped."

@@ -8,6 +8,8 @@ _Produced by: Cost-benefit / ROI analysis_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no funding gate requiring a formal model
+
 ## What this is
 
 The working spreadsheet (or equivalent) that computes NPV, IRR, and payback from the benefit and cost inputs. It is the engine behind the [business case](business-case.md) — the business case is the narrative; this is the math.

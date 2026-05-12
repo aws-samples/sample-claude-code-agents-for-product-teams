@@ -8,6 +8,8 @@ _Produced by: Architectural health monitoring_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the squad is its own architect
+
 ## What this is
 
 The Architect's view of how the system is holding up under real load — NFR attainment, coupling and drift from intended architecture, hot spots, and emerging debt. The periodic architectural check-in on steady-state behavior.

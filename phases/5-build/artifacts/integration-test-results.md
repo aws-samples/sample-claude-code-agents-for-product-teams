@@ -8,6 +8,8 @@ _Produced by: Integration testing_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** required — the integration points the MVP uses have to work
+
 ## What this is
 
 The running record of integration-test outcomes — cross-service, cross-system, and contract tests — per build, per environment, with pass rates, flakiness, and top failure clusters. Owned by QA with heavy developer participation.

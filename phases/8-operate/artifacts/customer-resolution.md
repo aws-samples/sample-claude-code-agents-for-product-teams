@@ -8,6 +8,8 @@ _Produced by: Troubleshoot customer issues_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — answering users directly is the resolution
+
 ## What this is
 
 The record of a completed customer case — problem, investigation steps, resolution delivered, time to resolve, and customer confirmation. One per closed ticket; feeds CSAT and knowledge-base mining.

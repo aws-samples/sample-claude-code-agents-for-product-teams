@@ -8,6 +8,8 @@ _Produced by: Rollout & rollback plan_
 
 **Stakeholders:** Site Reliability Engineer
 
+**Accelerated MVP:** required — the MVP has to ship the same way twice
+
 ## What this is
 
 The operational playbook for rolling out the release — pre-deploy checks, deploy steps, progressive rollout controls (flags, canaries, rings), health signals to watch, and explicit rollback procedures. Executable under pressure by whoever is on-call.

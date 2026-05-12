@@ -8,6 +8,8 @@ _Produced by: Identify affected internal audiences_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP's audience is a defined design-partner cohort
+
 ## What this is
 
 The list of internal audiences whose work will be affected by the initiative — sales, support, finance, legal, operations, field teams — with the nature of the impact and the first-draft communication posture. It is the seed for the Plan-phase communication plan.

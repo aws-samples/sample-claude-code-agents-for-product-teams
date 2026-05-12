@@ -6,6 +6,8 @@ _Produced by: Legal & compliance final sign-off_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** required when regulated or contracted; otherwise skip
+
 ## What this is
 
 Legal and Security & Compliance's final written approval that the product meets legal, regulatory, and contractual obligations at launch.

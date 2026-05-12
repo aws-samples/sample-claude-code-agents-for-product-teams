@@ -8,6 +8,8 @@ _Produced by: Merge code_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — trunk is where the MVP lives
+
 ## What this is
 
 Reviewed code integrated into the main branch through the merge process — all gates passed, pipeline green, changelog entry captured. The state of main is the canonical build-ready snapshot at any moment.

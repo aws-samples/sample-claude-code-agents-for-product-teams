@@ -8,6 +8,8 @@ _Produced by: Stakeholder identification & alignment_
 
 **Stakeholders:** Product Sponsor
 
+**Accelerated MVP:** optional when the initiative is scoped to a single squad with no external dependencies
+
 ## What this is
 
 A named list of every person or group with influence over, interest in, or dependence on the initiative, classified by power, interest, and stance. It is the org chart the project will actually be run against — not the one on the HR site.

@@ -8,6 +8,8 @@ _Produced by: Data requirements & classification_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** slim — list the personal/sensitive data the MVP touches; full inventory comes with scale
+
 ## What this is
 
 The catalogue of every data element the product will create, ingest, process, store, or share, each mapped to a classification tier and a lawful basis. This is the authoritative data register the architecture, security, and privacy work will anchor to.

@@ -4,6 +4,8 @@ _Produced by: Architecture decision records_
 
 **Primary owner:** Architect
 
+**Accelerated MVP:** required — future-you needs to know why the MVP looks the way it does
+
 ## What this is
 
 Architecture Decision Records — the narrative of why the architecture looks the way it does.

@@ -8,6 +8,8 @@ _Produced by: Benefits-readiness assessment_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when benefits are measured live in Operate
+
 ## What this is
 
 Pre-launch check on whether the mechanics for realizing and measuring benefits are live — KPI telemetry wired, baselines captured, attribution method agreed, data owners named, and review cadence scheduled. Not the benefits themselves; the capability to track them.

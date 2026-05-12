@@ -6,6 +6,8 @@ _Produced by: Launch rollback decision authority_
 
 **Stakeholders:** Release Manager
 
+**Accelerated MVP:** required — even the accelerated path needs a fallback call
+
 ## What this is
 
 A live decision, owned by the Sponsor and Release Manager, made during or immediately after deployment: continue the rollout or roll back.

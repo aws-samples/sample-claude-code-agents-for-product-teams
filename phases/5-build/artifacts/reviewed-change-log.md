@@ -8,6 +8,8 @@ _Produced by: Review incoming changes (changelog)_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — PR reviews cover this for the MVP
+
 ## What this is
 
 The SRE-reviewed, curated changelog from upstream merges — classified by risk, tagged for operational impact, and readied for inclusion in release notes and deployment runbooks. The operational cut of what engineering produced.

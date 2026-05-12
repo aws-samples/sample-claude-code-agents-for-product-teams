@@ -8,6 +8,8 @@ _Produced by: Hand off insights to Discover_
 
 **Stakeholders:** Business Analyst
 
+**Accelerated MVP:** required — learning has to feed the next iteration
+
 ## What this is
 
 The curated set of validated opportunities handed from Iterate back into Discover for the next cycle — each with enough evidence and framing to become a candidate opportunity brief. The live artifact that makes the PDLC an actual loop.

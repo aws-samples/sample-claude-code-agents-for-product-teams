@@ -6,6 +6,8 @@ _Produced by: Pre-launch validation — UAT / beta_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** slim — PO accepting the beta is enough
+
 ## What this is
 
 QA and the Product Owner sign off that user acceptance testing and/or beta validation shows the product meets its acceptance criteria under realistic use.

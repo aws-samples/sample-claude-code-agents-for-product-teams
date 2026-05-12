@@ -8,6 +8,8 @@ _Produced by: Issue / defect governance_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a shared bug board is enough
+
 ## What this is
 
 The governance cadence for defect management through Verify — how often triage runs, who chairs, decision rights, severity calibration, and the reporting that keeps the defect pipeline healthy during the highest-volume window of the initiative.

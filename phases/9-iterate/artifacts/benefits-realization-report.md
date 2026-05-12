@@ -8,6 +8,8 @@ _Produced by: Benefits realization review_
 
 **Stakeholders:** Business Analyst
 
+**Accelerated MVP:** slim — did the MVP move the KPI: yes, no, or unclear
+
 ## What this is
 
 The evidence-based answer to "did the promised benefits happen?" Each benefit from the approved benefits plan gets a realized/partial/shortfall verdict with attribution, confounders, and sustainability assessment.

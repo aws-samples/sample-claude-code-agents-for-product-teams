@@ -8,6 +8,8 @@ _Produced by: Sponsor/PO status report preparation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when status lives on the board and in demos
+
 ## What this is
 
 The PM's recurring delivery status — progress against baseline, feature/epic state, top risks and issues, scope changes, budget burn, and help-needed. Written for the Sponsor and PO; detailed enough that the exec status update can be derived from it.

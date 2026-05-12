@@ -8,6 +8,8 @@ _Produced by: Value-realization tracking_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — the KPI dashboard is the benefits tracker
+
 ## What this is
 
 The BA's continuous measurement of realized benefits against the approved benefits plan — each committed outcome tracked with actuals, attribution assumptions, and variance. Feeds benefits realization in Iterate.

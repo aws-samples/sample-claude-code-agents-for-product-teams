@@ -8,6 +8,8 @@ _Produced by: Solution options evaluation_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** slim — a one-paragraph "we chose X because Y" is enough
+
 ## What this is
 
 A reasoned recommendation of one option from a set of viable solution approaches — build, buy, partner, extend existing, or do nothing — with the evidence and trade-offs that led there. It is a decision-support artifact: the Sponsor signs, the team builds.

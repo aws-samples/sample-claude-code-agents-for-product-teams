@@ -4,6 +4,8 @@ _Produced by: Data classification confirmation_
 
 **Primary owner:** Security & Compliance
 
+**Accelerated MVP:** required — downstream decisions depend on it
+
 ## What this is
 
 Security & Compliance has confirmed the sensitivity tier of every data element the product handles — personal, financial, health, confidential, public.

@@ -8,6 +8,8 @@ _Produced by: Map security controls to test cases_
 
 **Stakeholders:** QA/Tester
 
+**Accelerated MVP:** optional when security controls reduce to platform defaults
+
 ## What this is
 
 A matrix mapping each security control to the test case(s) that verify it — automated, manual, or attestation-based. Rows are controls, columns are the tests that prove them, and gaps are things the audit will find if you don't fix them first.

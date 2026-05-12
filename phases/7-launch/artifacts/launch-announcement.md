@@ -8,6 +8,8 @@ _Produced by: Launch event_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is private
+
 ## What this is
 
 The external launch moment — press release, blog post, keynote, webinar, or event that publicly declares the product is live. The single piece of content the market points to when it says "this launched."

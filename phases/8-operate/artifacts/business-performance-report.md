@@ -8,6 +8,8 @@ _Produced by: Business-metric reporting cadence_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when business performance is the KPI dashboard
+
 ## What this is
 
 The recurring BA-authored rollup of business KPIs — adoption, activation, retention, revenue, and support metrics — measured against targets with commentary on drivers and anomalies. The analytical narrative that sits under Finance and Sponsor dashboards.

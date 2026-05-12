@@ -8,6 +8,8 @@ _Produced by: UAT defect triage_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** slim — an open-bug list with priorities is enough
+
 ## What this is
 
 The defect queue from UAT and beta sessions — each finding triaged for severity, reproducibility, scope disposition (fix now, fix post-launch, won't fix), and owner. The operational artifact of running UAT.

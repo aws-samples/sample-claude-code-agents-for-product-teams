@@ -4,6 +4,8 @@ _Produced by: Design review scheduling & minutes_
 
 **Primary owner:** Project Manager
 
+**Accelerated MVP:** slim — ADR updates cover this
+
 ## What this is
 
 A dated record of decisions made during design reviews: what was decided, who decided, what alternatives were considered, and what triggered the decision.

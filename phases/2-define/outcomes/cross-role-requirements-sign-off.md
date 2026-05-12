@@ -4,6 +4,8 @@ _Produced by: Review requirements_
 
 **Primary owner:** All roles
 
+**Accelerated MVP:** slim — PO plus tech lead sign-off is enough
+
 ## What this is
 
 Every role that will execute against these requirements — engineering, QA, SRE, security, support, sales — has reviewed and agreed they can deliver their part.

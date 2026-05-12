@@ -8,6 +8,8 @@ _Produced by: Process improvement review_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when retros drive improvement directly
+
 ## What this is
 
 The running list of delivery-process improvements generated from retrospectives and team observations during Build — specific, owned actions to reduce friction, not a retro-notes dump. Each item has an owner, a target date, and a success signal.

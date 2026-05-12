@@ -8,6 +8,8 @@ _Produced by: Business rules documentation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when business rules live directly in tests and code
+
 ## What this is
 
 The catalog of business rules the product enforces — eligibility, pricing, calculation, routing, compliance — each identified, defined, owned, and versioned independently of the code that implements them. Rules are not requirements; they are the policy the code obeys.

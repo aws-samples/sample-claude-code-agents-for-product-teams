@@ -8,6 +8,8 @@ _Produced by: Telemetry implementation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the MVP without telemetry is a prototype
+
 ## What this is
 
 Feature code that emits the events, metrics, logs, and traces called for by the telemetry plan — correctly named, correctly tagged, and verified at test time. Not "we'll add logging later" — first-class output alongside functional code.

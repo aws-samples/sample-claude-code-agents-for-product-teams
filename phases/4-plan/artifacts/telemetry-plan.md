@@ -8,6 +8,8 @@ _Produced by: Analytics & telemetry instrumentation planning_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the MVP cannot be evaluated without telemetry
+
 ## What this is
 
 The design for what the product will emit — events, metrics, logs, traces — so you can answer product, operational, and business questions after launch. It names the events, their schemas, the systems that ingest them, and who consumes each stream.

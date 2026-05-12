@@ -8,6 +8,8 @@ _Produced by: Draft user guides_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is self-explanatory or internal
+
 ## What this is
 
 Task-oriented, narrative guides that walk a user from zero to outcome — getting started, common workflows, troubleshooting. Complements feature documentation (which is reference) with flow-driven content.

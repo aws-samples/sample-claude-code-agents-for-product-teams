@@ -8,6 +8,8 @@ _Produced by: Compliance audit evidence collection_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when audits apply; otherwise skip
+
 ## What this is
 
 The continuously-collected pool of control evidence that demonstrates the product is operated in line with regulatory and contractual commitments — access reviews, change approvals, backup tests, vulnerability scans, training completion, and more. Organized by control and framework.

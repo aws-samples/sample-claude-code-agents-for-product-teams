@@ -8,6 +8,8 @@ _Produced by: Document product vision_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the MVP needs a north star to evolve toward
+
 ## What this is
 
 A durable, emotionally resonant statement of what the product aspires to be and who it serves 3–5 years out. It is not a roadmap and not a slogan — it is the north star sentence people repeat back in meetings when scope arguments heat up.

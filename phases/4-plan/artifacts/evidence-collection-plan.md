@@ -8,6 +8,8 @@ _Produced by: Compliance evidence plan_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required when regulated; otherwise skip
+
 ## What this is
 
 The plan for which compliance controls need evidenced, what evidence satisfies each, where it's produced, and how it's captured and retained — so audits (internal or external) don't turn into archaeology.

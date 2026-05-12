@@ -8,6 +8,8 @@ _Produced by: QBRs / customer check-ins_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when there is no commercial motion
+
 ## What this is
 
 The forward-looking commercial pipeline of renewal and expansion opportunities across the customer base — whose contract is up when, which accounts are expansion candidates, and the work committed to close each one.

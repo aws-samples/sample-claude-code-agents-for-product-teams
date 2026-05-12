@@ -8,6 +8,8 @@ _Produced by: Acceptance criteria authoring_
 
 **Stakeholders:** QA/Tester
 
+**Accelerated MVP:** required — "done" needs to be verifiable even for an MVP
+
 ## What this is
 
 The unambiguous, observable conditions under which a requirement is considered done — typically written in Given / When / Then form, tied to requirement IDs, and pre-agreed with QA. "Testable" is the load-bearing word: if a criterion cannot be observed by a human or a test, it is not an acceptance criterion.

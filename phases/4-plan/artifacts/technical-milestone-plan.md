@@ -8,6 +8,8 @@ _Produced by: Technical milestone sequencing_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — the MVP milestones are the iterations themselves
+
 ## What this is
 
 A sequenced view of the technical milestones that have to land — in order — for the architecture to come together: platform foundations, integration points, data pipeline cutover, security controls, scale rehearsals. It's the engineering "build order" behind the PM's schedule.

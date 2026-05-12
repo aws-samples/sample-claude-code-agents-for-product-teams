@@ -8,6 +8,8 @@ _Produced by: Inline / API code documentation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim when the API surface is small — generated docs on the endpoints that exist
+
 ## What this is
 
 Machine-generated API reference — OpenAPI/Swagger, GraphQL schema, protobuf docs, or equivalent — plus the inline code documentation it derives from. Updated automatically with code changes so drift is impossible.

@@ -8,6 +8,8 @@ _Produced by: Staging deployment & smoke tests_
 
 **Stakeholders:** QA/Tester
 
+**Accelerated MVP:** required — the MVP has to survive a real deploy before prod
+
 ## What this is
 
 A staging environment running the release candidate, confirmed via smoke tests to be operationally equivalent to the intended production state. Data, integrations, dependencies, and monitoring all live and behaving.

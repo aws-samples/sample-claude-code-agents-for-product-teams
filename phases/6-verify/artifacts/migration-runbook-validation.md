@@ -8,6 +8,8 @@ _Produced by: Data migration dress rehearsal_
 
 **Stakeholders:** Site Reliability Engineer
 
+**Accelerated MVP:** required when the MVP migrates data; otherwise skip
+
 ## What this is
 
 Evidence from a full dress-rehearsal of the data migration — executed end-to-end against production-scale data in a prod-like environment, timed, measured, and validated against acceptance criteria. The migration runbook annotated with real observations.

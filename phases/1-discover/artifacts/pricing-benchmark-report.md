@@ -8,6 +8,8 @@ _Produced by: Pricing research_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP isn't monetized
+
 ## What this is
 
 Comparative pricing data across competitors, substitutes, and adjacent markets, mapped against value delivered and buyer willingness-to-pay. It is how the team arrives at a defensible pricing hypothesis before Design-era commitments make it expensive to change.

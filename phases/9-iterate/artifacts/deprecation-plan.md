@@ -8,6 +8,8 @@ _Produced by: Sunset / deprecation_
 
 **Stakeholders:** Product Sponsor
 
+**Accelerated MVP:** optional when nothing is being deprecated yet
+
 ## What this is
 
 The formal plan to sunset a feature, API, tier, or entire product — announcement schedule, migration support, end-of-life date, and legal/contract implications.

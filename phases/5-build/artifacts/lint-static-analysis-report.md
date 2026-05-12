@@ -8,6 +8,8 @@ _Produced by: Static analysis / linting_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — in-CI static analysis is the report
+
 ## What this is
 
 The output of lint, formatter, type-checker, and non-security static-analysis tooling across the codebase — surfacing code-quality and maintainability issues, style violations, and known-bug patterns. Typically produced automatically in CI and consumed per PR.

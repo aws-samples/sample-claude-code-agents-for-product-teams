@@ -8,6 +8,8 @@ _Produced by: Revenue / ARR tracking_
 
 **Stakeholders:** Sales & Marketing
 
+**Accelerated MVP:** optional when the MVP isn't monetized
+
 ## What this is
 
 The recurring commercial view of the product — ARR/MRR, new/expansion/contraction/churn components, pipeline coverage, win rates, and billing vs. booked revenue reconciliation. The top-line the business case promised and the board tracks.

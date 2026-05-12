@@ -8,6 +8,8 @@ _Produced by: Requirements technical feasibility review_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — name the riskiest assumption and how the MVP tests it
+
 ## What this is
 
 The Architect's deeper read on whether each requirement and NFR can be met with the available platform, patterns, and time budget. It promotes ambers from the Discover [feasibility memo](../../1-discover/artifacts/feasibility-memo.md) into explicit findings, and surfaces new ones discovered in Define.

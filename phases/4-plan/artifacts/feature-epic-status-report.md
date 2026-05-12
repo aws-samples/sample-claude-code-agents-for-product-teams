@@ -8,6 +8,8 @@ _Produced by: Track features & epics_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when status lives on the board and in-person
+
 ## What this is
 
 A rolled-up status view at the feature/epic level — progress against plan, forecast completion, confidence, and top risks per feature. Not a list of tickets; a narrative of where each major deliverable stands.

@@ -8,6 +8,8 @@ _Produced by: Initial regulatory landscape scan_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the accelerated path still needs to know whether any regulation applies
+
 ## What this is
 
 A first-pass scan of the regulatory and legal landscape the opportunity will touch — data protection, industry-specific rules, export controls, accessibility mandates, and anything else that could block or reshape the work. It is a flag, not a full assessment; the goal is to surface known unknowns early.

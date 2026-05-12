@@ -8,6 +8,8 @@ _Produced by: Identify known issues_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a short shared doc of "what doesn't work yet" is enough
+
 ## What this is
 
 The living register of recurring customer-facing issues with status, workaround, and fix ETA. Both an internal support tool and the public-facing "known issues" customers can check before filing a ticket.

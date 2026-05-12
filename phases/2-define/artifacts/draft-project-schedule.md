@@ -8,6 +8,8 @@ _Produced by: Baseline schedule draft_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** slim — a next-two-iterations sequence is enough
+
 ## What this is
 
 The first pass at a project schedule — phases, major milestones, critical path, and handoffs — based on current effort estimates and dependencies. It is the input to the Plan-phase baselined schedule, not yet the commitment.

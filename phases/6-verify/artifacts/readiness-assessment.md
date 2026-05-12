@@ -8,6 +8,8 @@ _Produced by: Assess feature readiness_
 
 **Stakeholders:** Security & Compliance
 
+**Accelerated MVP:** slim — a DoD checklist plus a go-ahead from QA is enough
+
 ## What this is
 
 QA's aggregated view of feature-level readiness across the Verify campaign — functional coverage, regression state, defect posture, and outstanding risk. The QA input that rolls up into the launch-readiness assessment.

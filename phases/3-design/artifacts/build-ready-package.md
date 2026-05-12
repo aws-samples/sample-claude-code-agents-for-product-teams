@@ -8,6 +8,8 @@ _Produced by: Design → engineering handoff review_
 
 **Stakeholders:** Architect, Developer
 
+**Accelerated MVP:** slim — a shared folder with the screens, API spec, and ADRs is enough
+
 ## What this is
 
 The curated set of design artifacts engineering needs to start building confidently — specs, mockups, tokens, acceptance criteria, and open-question log — packaged for handoff. It is the handoff moment between Design and the Plan / Build phases.

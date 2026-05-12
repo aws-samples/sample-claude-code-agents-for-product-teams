@@ -6,6 +6,8 @@ _Produced by: Launch war room / hypercare_
 
 **Stakeholders:** Site Reliability Engineer
 
+**Accelerated MVP:** slim — a short hypercare window with an on-call person is enough
+
 ## What this is
 
 The product is live and operating within expected bounds; the hypercare team stands down gradually as signals stabilize.

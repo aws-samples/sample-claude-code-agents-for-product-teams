@@ -8,6 +8,8 @@ _Produced by: External analyst & press engagement_
 
 **Stakeholders:** Sales & Marketing
 
+**Accelerated MVP:** optional when the MVP is not publicly announced
+
 ## What this is
 
 The captured set of external analyst notes, press coverage, and influencer commentary produced around launch — quotes, briefing summaries, published articles, and any embargoed pieces releasing on launch day. It is the evidence that the market heard the message you intended.

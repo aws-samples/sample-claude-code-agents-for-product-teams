@@ -8,6 +8,8 @@ _Produced by: Vulnerability triage & remediation SLA tracking_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — someone has to decide fix, defer, or accept
+
 ## What this is
 
 The actively-managed subset of scan findings — decided, owned, and on a remediation clock. Each entry has a call (fix, suppress, accept), an owner, an SLA by severity, and a visible aging indicator.

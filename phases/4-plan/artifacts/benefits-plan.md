@@ -8,6 +8,8 @@ _Produced by: Benefits realization plan_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when benefits are measured directly from KPI telemetry
+
 ## What this is
 
 The plan for how the benefits claimed in the business case will be measured, attributed, and reviewed after launch — metric definitions, baselines, cadence, accountable owners, and the decision mechanism if benefits fall short.

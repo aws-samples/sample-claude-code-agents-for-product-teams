@@ -8,6 +8,8 @@ _Produced by: Feature adoption analysis_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** required — adoption is the MVP's signal
+
 ## What this is
 
 Feature-level adoption — who uses what, how often, in what workflows, and with what stickiness. Sliced by persona, segment, and cohort so low adoption can be diagnosed (discovery, friction, fit) rather than just observed.

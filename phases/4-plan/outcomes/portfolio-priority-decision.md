@@ -6,6 +6,8 @@ _Produced by: Resolve cross-portfolio priority conflicts_
 
 **Stakeholders:** Architect
 
+**Accelerated MVP:** optional when there is no portfolio-level contention
+
 ## What this is
 
 The Sponsor resolves conflicts where this initiative and other portfolio work compete for the same scarce resources (shared platforms, senior talent, regulatory bandwidth).

@@ -8,6 +8,8 @@ _Produced by: Execute stakeholder communication cadence_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the comms plan itself is optional
+
 ## What this is
 
 The archive of communications actually delivered against the stakeholder comms plan — meeting invites and minutes, status emails, briefing decks, memos — tied to the cadence they were intended to satisfy.

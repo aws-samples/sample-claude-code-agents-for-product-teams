@@ -8,6 +8,8 @@ _Produced by: Backup & disaster-recovery testing_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP's data-loss risk is acceptable for the first iteration
+
 ## What this is
 
 The evidence from periodic disaster-recovery and backup-restoration exercises — actual RTO/RPO measured against target, procedural gaps found, and remediation taken. Not a theoretical review; a live drill.

@@ -8,6 +8,8 @@ _Produced by: Backlog decomposition (features → work items)_
 
 **Stakeholders:** Business Analyst
 
+**Accelerated MVP:** required — items must be actionable
+
 ## What this is
 
 Features broken down to the grain engineering can actually pull into an iteration — small, independently valuable, with acceptance criteria and dependencies resolved. The output of backlog decomposition, not the raw backlog.

@@ -6,6 +6,8 @@ _Produced by: Design review & sign-off_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** slim — PO plus designer thumbs-up is enough
+
 ## What this is
 
 The UX design — journey, IA, specs, visual design, prototype, accessibility — has been reviewed and approved by Design leadership and the Product Owner as ready for engineering.

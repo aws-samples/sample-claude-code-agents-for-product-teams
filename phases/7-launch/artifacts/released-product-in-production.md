@@ -8,6 +8,8 @@ _Produced by: Deploy / release execution_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** required — the deploy is the point
+
 ## What this is
 
 The signed-off record that the release bill-of-materials has been successfully deployed to production — what exact artifacts, which environments, at what time, under which feature-flag posture — and that the deploy is considered complete.

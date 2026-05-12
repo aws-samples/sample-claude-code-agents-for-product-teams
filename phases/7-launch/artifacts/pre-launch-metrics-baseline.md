@@ -8,6 +8,8 @@ _Produced by: Launch baseline snapshot_
 
 **Stakeholders:** Product Owner
 
+**Accelerated MVP:** required — MVP impact can't be measured without a baseline
+
 ## What this is
 
 A frozen snapshot of KPI values as of the moment before launch — the numbers that define "before" so Iterate can legitimately claim "after." Includes the baseline definition of each metric, source system, and measurement window.

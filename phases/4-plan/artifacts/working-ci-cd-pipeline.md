@@ -8,6 +8,8 @@ _Produced by: CI/CD pipeline setup_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** required — manual deploys scale to about one MVP
+
 ## What this is
 
 A functional, trusted pipeline that takes a commit from main through build, test, security scanning, artifact signing, and promotion to each environment — with the stages, gates, and triggers documented.

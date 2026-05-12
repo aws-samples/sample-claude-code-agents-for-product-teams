@@ -4,6 +4,8 @@ _Produced by: Resolve technical blockers_
 
 **Primary owner:** Architect
 
+**Accelerated MVP:** required — blockers are blockers
+
 ## What this is
 
 A running log of technical blockers the Architect has resolved during build — the pattern clarifications, dependency unblocks, and design-intent guidance that kept engineering moving.

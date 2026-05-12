@@ -8,6 +8,8 @@ _Produced by: Cross-team sync facilitation_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is single-squad
+
 ## What this is
 
 Running notes from dependency and cross-team sync meetings — commitments made, dates exchanged, blockers surfaced, risks raised. Captures the inter-team operating contract that the RAID log and status depend on.

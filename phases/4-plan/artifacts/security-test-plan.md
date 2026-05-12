@@ -8,6 +8,8 @@ _Produced by: Security test plan contribution_
 
 **Stakeholders:** QA/Tester
 
+**Accelerated MVP:** required when applicable regulations or a threat model exist; otherwise slim
+
 ## What this is
 
 The slice of the test plan focused on security: threat-model-driven test cases, SAST/DAST/SCA/IAST tooling, pen-test scope and timing, abuse-case testing, and the controls that must be verified before launch. Owned by Security, executed jointly with QA.

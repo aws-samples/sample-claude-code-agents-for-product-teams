@@ -8,6 +8,8 @@ _Produced by: Estimation / sizing_
 
 **Stakeholders:** Project Manager
 
+**Accelerated MVP:** slim — t-shirt sizing on the MVP scope items is enough
+
 ## What this is
 
 Engineering sizing of the requirements and enabler work, expressed in whatever currency the team uses (points, T-shirt sizes, days, cost), with confidence bands. It is what turns the requirements document into a plannable body of work.

@@ -6,6 +6,8 @@ _Produced by: Risk appetite ratification_
 
 **Stakeholders:** Security & Compliance
 
+**Accelerated MVP:** required — accepting a risk is a decision to record
+
 ## What this is
 
 The Sponsor, with Security & Compliance input, has ratified the risk posture for the initiative: which risks to accept, mitigate, transfer, or avoid.

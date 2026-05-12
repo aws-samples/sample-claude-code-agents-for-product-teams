@@ -8,6 +8,8 @@ _Produced by: Security patching_
 
 **Stakeholders:** Developer, Site Reliability Engineer
 
+**Accelerated MVP:** required — known CVEs don't get a pass
+
 ## What this is
 
 The ongoing record that vulnerable dependencies, OS packages, base images, and libraries are being patched on cadence against the agreed remediation SLAs — what got patched, when, in response to which CVE, and what still needs work.

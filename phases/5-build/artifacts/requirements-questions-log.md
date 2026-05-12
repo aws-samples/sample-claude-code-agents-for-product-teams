@@ -8,6 +8,8 @@ _Produced by: Raise requirements questions & impediments_
 
 **Stakeholders:** QA/Tester
 
+**Accelerated MVP:** slim — threads on the work item or in a shared channel suffice
+
 ## What this is
 
 The list of open questions raised by Devs and QA while implementing and testing — ambiguities, conflicts, edge cases, missing acceptance criteria — with who asked, when, who needs to answer, and the current state. The BA answers into clarified requirements.

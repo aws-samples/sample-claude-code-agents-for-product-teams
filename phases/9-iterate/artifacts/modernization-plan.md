@@ -8,6 +8,8 @@ _Produced by: Technology refresh / modernization planning_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is new code in a new space
+
 ## What this is
 
 The specific plan to migrate off end-of-life dependencies, replace underperforming components, and move to newer platforms or patterns where the ROI justifies the effort. The tactical counterpart to the architecture roadmap.

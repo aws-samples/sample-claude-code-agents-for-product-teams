@@ -6,6 +6,8 @@ _Produced by: Approve launch risk posture_
 
 **Stakeholders:** Product Owner, Security & Compliance
 
+**Accelerated MVP:** required — shipping with known issues is a decision
+
 ## What this is
 
 The Sponsor, PO, and Security & Compliance have formally accepted the list of known issues the product will launch with, and the compensating mitigations.

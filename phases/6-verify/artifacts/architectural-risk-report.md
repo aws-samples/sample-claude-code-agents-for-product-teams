@@ -8,6 +8,8 @@ _Produced by: Architectural risk assessment_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when risks are in the risk register already
+
 ## What this is
 
 The Architect's honest inventory of residual architectural risk at the cusp of launch — areas where the architecture is working but strained, known technical debt that amplifies incidents, and the "we got lucky" patterns that should be watched.

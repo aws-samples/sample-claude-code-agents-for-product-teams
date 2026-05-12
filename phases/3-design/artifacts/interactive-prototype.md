@@ -8,6 +8,8 @@ _Produced by: Prototyping_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when engineers can stub the UI in-code faster than a prototype
+
 ## What this is
 
 A clickable prototype — low- to mid-fidelity — that simulates the core flows closely enough to let users and stakeholders experience them before build. It is a research instrument, not a product, and its disposable nature is a feature.

@@ -8,6 +8,8 @@ _Produced by: Recruit & onboard UAT / beta users_
 
 **Stakeholders:** Sales & Marketing
 
+**Accelerated MVP:** optional when the MVP audience is pre-defined
+
 ## What this is
 
 The identified, agreed, and onboarded set of users participating in UAT and beta — with their profile mix, agreements signed, access provisioned, and onboarding complete. Customer Support leads the recruit; Sales & Marketing often brings the accounts.

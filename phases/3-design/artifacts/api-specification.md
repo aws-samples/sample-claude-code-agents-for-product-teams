@@ -8,6 +8,8 @@ _Produced by: API / interface contract design_
 
 **Stakeholders:** Developer
 
+**Accelerated MVP:** slim — OpenAPI or equivalent for the MVP's endpoints; full registry later
+
 ## What this is
 
 The formal contract for every API the product exposes — endpoints, operations, request/response shapes, error model, auth, versioning, and non-functional commitments. Typically an OpenAPI or AsyncAPI spec plus the narrative that humans read.

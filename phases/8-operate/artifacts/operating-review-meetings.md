@@ -8,6 +8,8 @@ _Produced by: Operating cadence coordination_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when ops reviews happen in the squad's own cadence
+
 ## What this is
 
 The cadence of steady-state review meetings the PM coordinates — operational performance review, business review, renewal forecast, security posture — with agendas, inputs, attendees, and decision logs.

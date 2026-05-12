@@ -8,6 +8,8 @@ _Produced by: Usability testing (pre-build)_
 
 **Stakeholders:** _(none listed)_
 
+**Accelerated MVP:** optional when the MVP is itself the usability test — real use beats lab sessions
+
 ## What this is
 
 The evidence from usability tests on the interactive prototype — task success, errors, confusions, quotes, time-on-task — synthesized into findings and recommendations. Done pre-build so the design can still change cheaply.

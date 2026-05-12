@@ -6,6 +6,8 @@ _Produced by: Re-validate business case vs. emerging reality_
 
 **Stakeholders:** Business Analyst
 
+**Accelerated MVP:** slim — a line in the retro noting whether the premise still holds
+
 ## What this is
 
 Mid-build, the Sponsor — informed by the BA's in-flight benefits tracking — either re-confirms that the business case remains valid, or resets it to reflect what reality now shows.

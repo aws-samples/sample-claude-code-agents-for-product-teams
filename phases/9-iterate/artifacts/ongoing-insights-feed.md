@@ -8,6 +8,8 @@ _Produced by: Continuous discovery_
 
 **Stakeholders:** UI/UX Designer
 
+**Accelerated MVP:** slim — a shared channel or doc is enough
+
 ## What this is
 
 The continuous-discovery practice output — a running stream of research notes, user interview takeaways, behavioral observations, and hypotheses curated as they come in, not batched for quarterly deep-dives.
