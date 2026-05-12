@@ -1,0 +1,552 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>AI-PDLC Project Dashboard</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --panel: #1a1f2e;
+    --panel-2: #232938;
+    --border: #2d3548;
+    --text: #e6e9ef;
+    --muted: #8a94a7;
+    --accent: #5b9cff;
+    --ok: #4ade80;
+    --warn: #fbbf24;
+    --risk: #f87171;
+    --prep: #a78bfa;
+    --deferred: #64748b;
+    --not-started: #475569;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  header {
+    padding: 16px 24px;
+    background: var(--panel);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  header h1 { margin: 0; font-size: 18px; font-weight: 600; }
+  .meta { color: var(--muted); font-size: 12px; }
+  .controls {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .controls label { font-size: 12px; color: var(--muted); }
+  .controls select, .controls input[type=text] {
+    background: var(--panel-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 13px;
+  }
+  .view-toggle {
+    display: inline-flex;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .view-toggle button {
+    background: var(--panel-2);
+    color: var(--text);
+    border: none;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+  .view-toggle button.active { background: var(--accent); color: white; }
+  .summary {
+    display: flex;
+    gap: 12px;
+    padding: 12px 24px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--border);
+    background: var(--panel);
+  }
+  .summary .stat {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .summary .stat b { color: var(--text); }
+  .dot {
+    width: 10px; height: 10px; border-radius: 50%; display: inline-block;
+  }
+  .dot.complete { background: var(--ok); }
+  .dot.in-progress { background: var(--warn); }
+  .dot.prepared { background: var(--prep); }
+  .dot.blocked { background: var(--risk); }
+  .dot.deferred { background: var(--deferred); }
+  .dot.not-started { background: var(--not-started); }
+
+  main { padding: 16px 24px; }
+
+  /* Phase view */
+  .phase {
+    margin-bottom: 24px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .phase-header {
+    padding: 12px 16px;
+    background: var(--panel-2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .phase-header h2 { margin: 0; font-size: 15px; font-weight: 600; }
+  .progress-bar {
+    width: 200px; height: 6px; background: var(--bg); border-radius: 3px; overflow: hidden;
+    display: flex;
+  }
+  .progress-bar > div { height: 100%; }
+  .phase-body { padding: 8px 16px 16px; }
+  .phase.collapsed .phase-body { display: none; }
+
+  /* Grouping */
+  .group {
+    margin-top: 12px;
+  }
+  .group h3 {
+    margin: 0 0 6px; font-size: 12px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
+  }
+
+  /* Item rows */
+  .items { display: grid; gap: 4px; }
+  .item {
+    display: grid;
+    grid-template-columns: 16px 1fr auto auto;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 12px;
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .item:hover { border-color: var(--accent); }
+  .item .label { font-weight: 500; }
+  .item .meta-line { font-size: 11px; color: var(--muted); }
+  .item .kind-badge {
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 3px;
+    background: var(--bg);
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .item .kind-badge.outcomes { color: var(--prep); }
+
+  /* Role view */
+  .role-block {
+    margin-bottom: 24px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+  }
+  .role-block h2 {
+    margin: 0;
+    padding: 12px 16px;
+    background: var(--panel-2);
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .role-block .phases-grid {
+    padding: 12px 16px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 12px;
+  }
+  .role-phase-col h4 {
+    margin: 0 0 6px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+  }
+  .role-phase-col .items { gap: 3px; }
+  .role-phase-col .item {
+    grid-template-columns: 14px 1fr auto;
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+
+  /* Detail panel */
+  .detail {
+    position: fixed;
+    top: 0; right: 0; bottom: 0;
+    width: min(540px, 90vw);
+    background: var(--panel);
+    border-left: 1px solid var(--border);
+    padding: 24px;
+    overflow-y: auto;
+    transform: translateX(100%);
+    transition: transform 0.15s ease-out;
+    z-index: 10;
+    box-shadow: -4px 0 20px rgba(0,0,0,0.3);
+  }
+  .detail.open { transform: translateX(0); }
+  .detail h2 { margin-top: 0; font-size: 18px; }
+  .detail .close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background: none;
+    border: none;
+    color: var(--muted);
+    font-size: 20px;
+    cursor: pointer;
+  }
+  .detail dl { display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; font-size: 13px; }
+  .detail dt { color: var(--muted); }
+  .detail dd { margin: 0; }
+  .detail .status-row {
+    display: flex;
+    gap: 8px;
+    margin: 16px 0;
+    flex-wrap: wrap;
+  }
+  .detail .status-row button {
+    background: var(--panel-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+  .detail .status-row button.active {
+    border-color: var(--accent);
+    background: var(--accent);
+    color: white;
+  }
+  .detail textarea {
+    width: 100%;
+    min-height: 80px;
+    background: var(--panel-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 8px;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: 13px;
+    resize: vertical;
+  }
+  .detail a { color: var(--accent); }
+
+  .help {
+    padding: 10px 24px;
+    border-top: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--muted);
+    font-size: 12px;
+  }
+  .help code {
+    background: var(--panel-2);
+    padding: 1px 4px;
+    border-radius: 3px;
+  }
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>AI-PDLC Project Dashboard</h1>
+    <div class="meta" id="project-meta">Loading…</div>
+  </div>
+  <div class="controls">
+    <label>View:</label>
+    <div class="view-toggle">
+      <button id="view-phase" class="active">By phase</button>
+      <button id="view-role">By role</button>
+    </div>
+    <label>Role:</label>
+    <select id="filter-role"><option value="">All</option></select>
+    <label>Status:</label>
+    <select id="filter-status">
+      <option value="">All</option>
+      <option value="complete">Complete</option>
+      <option value="in-progress">In progress</option>
+      <option value="prepared">Prepared for sign-off</option>
+      <option value="blocked">Blocked</option>
+      <option value="deferred">Deferred</option>
+      <option value="not-started">Not started</option>
+    </select>
+    <input type="text" id="filter-text" placeholder="Search label/activity…">
+  </div>
+</header>
+
+<div class="summary" id="summary"></div>
+
+<main id="main"></main>
+
+<div class="help">
+  Click any row for details. Statuses are read from <code>status.json</code> (same directory) — agents update that file as artifacts are produced. Reload the page to see the latest state.
+</div>
+
+<aside class="detail" id="detail">
+  <button class="close" onclick="closeDetail()">×</button>
+  <div id="detail-body"></div>
+</aside>
+
+<script src="data.js"></script>
+<script src="status.js"></script>
+<script>
+(() => {
+  const data = window.PDLC_DATA;
+  const status = window.PDLC_STATUS || { updated: null, items: {}, project: {} };
+
+  // Hydrate UI
+  const meta = document.getElementById('project-meta');
+  const projectName = (status.project && status.project.name) || 'Unnamed project';
+  const updated = status.updated ? new Date(status.updated).toLocaleString() : 'never';
+  meta.textContent = `${projectName} • last updated ${updated} • ${data.items.length} artifacts & outcomes across ${data.phases.length} phases`;
+
+  const roleFilter = document.getElementById('filter-role');
+  data.roles.forEach(r => {
+    const opt = document.createElement('option');
+    opt.value = r; opt.textContent = r;
+    roleFilter.appendChild(opt);
+  });
+
+  const STATUS_LABELS = {
+    'complete': 'Complete',
+    'in-progress': 'In progress',
+    'prepared': 'Prepared for sign-off',
+    'blocked': 'Blocked',
+    'deferred': 'Deferred',
+    'not-started': 'Not started',
+  };
+
+  function getStatus(item) {
+    const key = `${item.phase_slug}/${item.kind}/${item.filename}`;
+    const entry = status.items[key] || status.items[item.path];
+    return entry || { status: 'not-started' };
+  }
+
+  function matchesFilters(item) {
+    const role = roleFilter.value;
+    const stFilter = document.getElementById('filter-status').value;
+    const text = document.getElementById('filter-text').value.toLowerCase().trim();
+    if (role && !item.all_roles.includes(role)) return false;
+    const st = getStatus(item).status || 'not-started';
+    if (stFilter && st !== stFilter) return false;
+    if (text) {
+      const hay = (item.label + ' ' + item.activity).toLowerCase();
+      if (!hay.includes(text)) return false;
+    }
+    return true;
+  }
+
+  function renderSummary() {
+    const visible = data.items.filter(matchesFilters);
+    const counts = { complete: 0, 'in-progress': 0, prepared: 0, blocked: 0, deferred: 0, 'not-started': 0 };
+    visible.forEach(i => { counts[getStatus(i).status || 'not-started']++; });
+    const summary = document.getElementById('summary');
+    summary.innerHTML = `
+      <div class="stat"><b>${visible.length}</b> visible</div>
+      <div class="stat"><span class="dot complete"></span> <b>${counts.complete}</b> complete</div>
+      <div class="stat"><span class="dot in-progress"></span> <b>${counts['in-progress']}</b> in progress</div>
+      <div class="stat"><span class="dot prepared"></span> <b>${counts.prepared}</b> prepared</div>
+      <div class="stat"><span class="dot blocked"></span> <b>${counts.blocked}</b> blocked</div>
+      <div class="stat"><span class="dot deferred"></span> <b>${counts.deferred}</b> deferred</div>
+      <div class="stat"><span class="dot not-started"></span> <b>${counts['not-started']}</b> not started</div>
+    `;
+  }
+
+  function progressSegments(items) {
+    const counts = { complete: 0, 'in-progress': 0, prepared: 0, blocked: 0, deferred: 0, 'not-started': 0 };
+    items.forEach(i => counts[getStatus(i).status || 'not-started']++);
+    const total = items.length;
+    const order = ['complete', 'prepared', 'in-progress', 'blocked', 'deferred', 'not-started'];
+    const colors = {
+      'complete': 'var(--ok)',
+      'in-progress': 'var(--warn)',
+      'prepared': 'var(--prep)',
+      'blocked': 'var(--risk)',
+      'deferred': 'var(--deferred)',
+      'not-started': 'var(--not-started)',
+    };
+    return order.map(k => {
+      const pct = (counts[k] / total) * 100;
+      if (pct === 0) return '';
+      return `<div style="width:${pct}%;background:${colors[k]}" title="${STATUS_LABELS[k]}: ${counts[k]}"></div>`;
+    }).join('');
+  }
+
+  function itemRow(item, compact=false) {
+    const st = getStatus(item);
+    const stCls = st.status || 'not-started';
+    const meta = compact
+      ? `<div class="meta-line">${item.owner || ''}</div>`
+      : `<div class="meta-line">${item.owner || ''}${item.coowners.length ? ' · +' + item.coowners.join(', ') : ''} — ${item.activity}</div>`;
+    return `
+      <div class="item" data-key="${item.phase_slug}/${item.kind}/${item.filename}">
+        <span class="dot ${stCls}" title="${STATUS_LABELS[stCls]}"></span>
+        <div>
+          <div class="label">${item.label}</div>
+          ${meta}
+        </div>
+        ${compact ? '' : `<span class="kind-badge ${item.kind}">${item.kind === 'artifacts' ? 'artifact' : 'outcome'}</span>`}
+        <span style="color:var(--muted);font-size:11px">${compact ? '' : 'Phase ' + item.phase_num}</span>
+      </div>
+    `;
+  }
+
+  function renderPhaseView() {
+    const main = document.getElementById('main');
+    const html = data.phases.map(phase => {
+      const phaseItems = data.items.filter(i => i.phase_num === phase.num && matchesFilters(i));
+      if (phaseItems.length === 0) return '';
+      const byOwner = {};
+      phaseItems.forEach(i => {
+        const k = i.owner || '(unassigned)';
+        (byOwner[k] = byOwner[k] || []).push(i);
+      });
+      const groups = Object.keys(byOwner).sort().map(owner => `
+        <div class="group">
+          <h3>${owner} (${byOwner[owner].length})</h3>
+          <div class="items">
+            ${byOwner[owner].map(i => itemRow(i)).join('')}
+          </div>
+        </div>
+      `).join('');
+      return `
+        <section class="phase" data-phase="${phase.num}">
+          <div class="phase-header" onclick="togglePhase(${phase.num})">
+            <h2>${phase.num}. ${phase.name} <span style="color:var(--muted);font-weight:400">— ${phaseItems.length} items</span></h2>
+            <div class="progress-bar">${progressSegments(phaseItems)}</div>
+          </div>
+          <div class="phase-body">${groups}</div>
+        </section>
+      `;
+    }).join('');
+    main.innerHTML = html || '<p style="color:var(--muted)">No items match the current filters.</p>';
+  }
+
+  function renderRoleView() {
+    const main = document.getElementById('main');
+    const html = data.roles.map(role => {
+      const roleItems = data.items.filter(i => i.all_roles.includes(role) && matchesFilters(i));
+      if (roleItems.length === 0) return '';
+      const phasesHtml = data.phases.map(p => {
+        const items = roleItems.filter(i => i.phase_num === p.num);
+        if (items.length === 0) return '';
+        return `
+          <div class="role-phase-col">
+            <h4>${p.num}. ${p.name}</h4>
+            <div class="items">
+              ${items.map(i => itemRow(i, true)).join('')}
+            </div>
+          </div>
+        `;
+      }).join('');
+      return `
+        <section class="role-block">
+          <h2>${role} <span style="color:var(--muted);font-weight:400;font-size:13px">— ${roleItems.length} items</span></h2>
+          <div class="phases-grid">${phasesHtml}</div>
+        </section>
+      `;
+    }).join('');
+    main.innerHTML = html || '<p style="color:var(--muted)">No items match the current filters.</p>';
+  }
+
+  let currentView = 'phase';
+  function render() {
+    renderSummary();
+    if (currentView === 'phase') renderPhaseView();
+    else renderRoleView();
+    attachRowHandlers();
+  }
+
+  function attachRowHandlers() {
+    document.querySelectorAll('.item').forEach(el => {
+      el.addEventListener('click', () => {
+        const key = el.dataset.key;
+        const item = data.items.find(i => `${i.phase_slug}/${i.kind}/${i.filename}` === key);
+        if (item) openDetail(item);
+      });
+    });
+  }
+
+  function openDetail(item) {
+    const st = getStatus(item);
+    const body = document.getElementById('detail-body');
+    body.innerHTML = `
+      <h2>${item.label}</h2>
+      <dl>
+        <dt>Kind</dt><dd>${item.kind === 'artifacts' ? 'Artifact' : 'Outcome'}</dd>
+        <dt>Phase</dt><dd>${item.phase_num}. ${item.phase_name}</dd>
+        <dt>Activity</dt><dd>${item.activity}</dd>
+        <dt>Owner (A)</dt><dd>${item.owner || '—'}</dd>
+        <dt>Co-owners (R)</dt><dd>${item.coowners.length ? item.coowners.join(', ') : '—'}</dd>
+        <dt>Status</dt><dd>${STATUS_LABELS[st.status || 'not-started']}</dd>
+        ${st.updated ? `<dt>Updated</dt><dd>${new Date(st.updated).toLocaleString()}</dd>` : ''}
+        ${st.updated_by ? `<dt>By</dt><dd>${st.updated_by}</dd>` : ''}
+      </dl>
+      ${st.notes ? `<h3 style="margin-top:20px;font-size:13px">Notes</h3><div style="white-space:pre-wrap;font-size:13px;color:var(--text)">${escapeHtml(st.notes)}</div>` : ''}
+      ${st.blocker ? `<h3 style="margin-top:20px;font-size:13px;color:var(--risk)">Blocker</h3><div style="white-space:pre-wrap;font-size:13px">${escapeHtml(st.blocker)}</div>` : ''}
+      <h3 style="margin-top:20px;font-size:13px">Links</h3>
+      <ul style="padding-left:18px;font-size:13px">
+        <li>Handbook stub: <a href="${item.path}" target="_blank">${item.path}</a></li>
+        ${st.artifact_path ? `<li>Produced artifact: <a href="${st.artifact_path}" target="_blank">${st.artifact_path}</a></li>` : ''}
+      </ul>
+    `;
+    document.getElementById('detail').classList.add('open');
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  window.closeDetail = () => document.getElementById('detail').classList.remove('open');
+  window.togglePhase = (n) => {
+    const el = document.querySelector(`.phase[data-phase="${n}"]`);
+    if (el) el.classList.toggle('collapsed');
+  };
+
+  document.getElementById('view-phase').addEventListener('click', () => {
+    currentView = 'phase';
+    document.getElementById('view-phase').classList.add('active');
+    document.getElementById('view-role').classList.remove('active');
+    render();
+  });
+  document.getElementById('view-role').addEventListener('click', () => {
+    currentView = 'role';
+    document.getElementById('view-role').classList.add('active');
+    document.getElementById('view-phase').classList.remove('active');
+    render();
+  });
+  ['filter-role', 'filter-status', 'filter-text'].forEach(id => {
+    document.getElementById(id).addEventListener('input', render);
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>

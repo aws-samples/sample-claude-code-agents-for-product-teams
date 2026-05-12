@@ -39,6 +39,15 @@ Before dispatching anyone, create this layout at `./artifacts/`:
 - `./artifacts/_seed/` — if it doesn't exist, create it, populate it per the locate-seed step above, and write `_seed/README.md` explaining the pattern (see the handbook's `artifacts/_seed/README.md` if one exists locally; otherwise mirror its content: what `_seed` is for, what to put there, conflict resolution with multiple docs, what _not_ to put there, how downstream consumes it).
 - `./artifacts/status-ticker.md` — header `# Project Status Ticker` followed by a blank line. Every role agent appends to this on task completion, blockers, and (for PM) dispatch fan-outs. The PM uses it as primary input for every subsequent dispatch cycle — unblock-first, don't-redo-completed-work.
 - `./artifacts/sponsor-decision-register.md` — header `# Sponsor Decision Register` followed by a blank line. Any role agent that prepares a human-signable decision (Sponsor-owned outcomes, co-signed gates like security/compliance approval, legal approval, ratified risk decisions) appends a `prepared` entry. **AI agents never post `signed` entries.** Only humans sign.
+- `./artifacts/_dashboard/` — install the tracking dashboard. Run `bash <handbook-root>/templates/dashboard/install.sh "$PWD" "<project-name>"` from the user's project root. This copies `dashboard.html`, regenerates `data.js` from the master flow (286 items across 9 phases), seeds an empty `status.js`, and auto-opens `dashboard.html` in the default browser (via `open` on macOS / `xdg-open` on Linux). After installing, tell the user one line: *"Dashboard opened in your browser — watch artifacts go green as we produce them. Refresh to see latest."* If `install.sh` reports no browser was launched (headless env, SSH session), point them at the printed `file://` path instead. To suppress the auto-open (e.g., re-running mid-session), set `NO_OPEN=1` on the install command.
+
+### Updating the dashboard as you go
+
+Every role agent you dispatch MUST call `update_status.py` when it writes, prepares, or blocks on an artifact. The update brief gets baked into each dispatch:
+
+> After you complete your artifact, also run: `python3 ./artifacts/_dashboard/update_status.py ./artifacts/_dashboard/status.js "<phase-slug>/<kind>/<filename>" <status> --updated-by <role-slug> --artifact-path <relative-path> [--notes "<what happened>"] [--blocker "<what's blocking>"]`. Valid statuses: `complete`, `in-progress`, `prepared`, `blocked`, `deferred`, `not-started`. Use `prepared` for any artifact that needs a human signer; use `blocked` plus `--blocker` if you hit a dependency you can't resolve; use `deferred` plus `--notes` for anything intentionally out of scope.
+
+The key format matches the handbook path: `5-build/artifacts/mvp.md`, `3-design/outcomes/build-vs-buy-decision.md`, etc. — exactly what's in the master flow. The dashboard picks up the change when the user reloads the page.
 
 ## Execution plan — four autonomous runs
 
@@ -183,6 +192,7 @@ For each generated artifact, show which section(s) of the seed doc(s) it draws f
 When Plan completes, write the manifest and traceability files (these are not optional — treat them as Plan-exit artifacts), then tell the user:
 
 - Bundle location, total artifact count, `_TBD:` count.
+- **Point them at the dashboard** — `./artifacts/_dashboard/dashboard.html` — so they can see the full picture green/yellow/red across all 9 phases at a glance, including the ones this command didn't touch.
 - The ordered list of human sign-offs required before Build can legitimately start (blockers first).
 - Banner note: *"Expect the sponsor decision register to show many `prepared` entries and zero `signed` — by design. The register is a queue for human ratification; it grows faster than you can sign. Work the blocker list first."*
 - A recommendation to run the navigator skill's **path 2** (project-wide AI acceleration plan) against this bundle to identify where AI teammates can accelerate the Build phase.

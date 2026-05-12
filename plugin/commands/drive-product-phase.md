@@ -74,12 +74,21 @@ If the user can't answer a question, mark it `_TBD_` and move on. Do not block o
 
 ## Step 3 — Initialize coordination files
 
-Before dispatching anyone, ensure these two shared files exist in `./artifacts/`:
+Before dispatching anyone, ensure these shared files exist in `./artifacts/`:
 
 - **`status-ticker.md`** — if missing, create with header `# Project Status Ticker` followed by a blank line. The Project Manager reads this end-to-end before every dispatch cycle (per the PM agent's instructions). Every role agent appends to it on task completion and blockers.
 - **`sponsor-decision-register.md`** — if missing, create with header `# Sponsor Decision Register` followed by a blank line. Any role agent preparing a human-signable decision (sponsor-owned outcomes, security/compliance co-signs, legal approval, ratified risk decisions) appends a `prepared` entry. This is the canonical queue of pending sign-offs.
+- **`_dashboard/`** — if missing, install the tracking dashboard by running `bash <handbook-root>/templates/dashboard/install.sh "$PWD" "<project-name>"` from the user's project root. This copies `dashboard.html`, regenerates `data.js` from the master flow (286 items across 9 phases), seeds an empty `status.js`, and auto-opens `dashboard.html` in the default browser (via `open` on macOS / `xdg-open` on Linux). Tell the user one line: *"Dashboard opened in your browser — it'll reflect status as we work when you refresh."* If `install.sh` reports no browser was launched (headless env), point them at the printed `file://` path. If `_dashboard/` already exists, run the installer with `NO_OPEN=1` so it refreshes `data.js` without re-opening a tab the user already has; preserve the existing `status.js`.
 
-If the files already exist (re-running the command on an in-flight project), **do not rewrite them**. Read them end-to-end first — open blockers and `prepared` entries are your current state.
+If the coordination files already exist (re-running the command on an in-flight project), **do not rewrite them**. Read them end-to-end first — open blockers and `prepared` entries are your current state. Likewise `status.js` — the existing statuses are your starting ground truth; don't regress items to `not-started`.
+
+### Updating the dashboard as you dispatch
+
+Every specialist dispatch in Step 5c must include this paragraph in the brief:
+
+> After you finish your artifact, also update the dashboard. Run: `python3 ./artifacts/_dashboard/update_status.py ./artifacts/_dashboard/status.js "<phase-slug>/<kind>/<filename>" <status> --updated-by <role-slug> --artifact-path <relative-path> [--notes "<what happened>"] [--blocker "<what's blocking>"]`. Valid statuses: `complete`, `in-progress`, `prepared`, `blocked`, `deferred`, `not-started`. Use `prepared` for any artifact that requires a human signer (same moment you're posting to the sponsor decision register); use `blocked` plus `--blocker` if you hit an external dependency; use `deferred` plus `--notes` if the artifact is descoped.
+
+The key format matches the handbook: `5-build/artifacts/mvp.md`, `3-design/outcomes/build-vs-buy-decision.md`. The dashboard picks up changes when the user refreshes the browser tab.
 
 ---
 
@@ -140,6 +149,8 @@ When you believe the phase is complete, compute the Exit checklist status:
 - **🟡 prepared for sign-off** — artifact written, `prepared` entry in sponsor decision register.
 - **⚠️ partial** — artifact has material `_TBD_` placeholders; note what's needed.
 - **❌ deferred** — role not in play or explicitly descoped; note reason.
+
+Cross-check against the dashboard: every Exit checklist item should match a status in `./artifacts/_dashboard/status.js`. If an item's status on the dashboard disagrees with your checklist call, reconcile — most commonly by running `update_status.py` to bring the dashboard in line with what actually happened.
 
 Show the user the Exit checklist with each item marked. Wait for confirmation or redirect before moving to the next phase. **Do not silently cascade** — a wrong call early compounds downstream.
 

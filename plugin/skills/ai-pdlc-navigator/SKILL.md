@@ -28,6 +28,7 @@ All handbook content is bundled inside this skill under `content/`. When you nee
 - **Outcome stubs:** `content/phases/<N-phase>/outcomes/<slug>.md`
 - **Adoption guides:** `content/adoption/maturity-model.md` · `content/adoption/maturity-assessment.md` · `content/adoption/hitl-framework.md` · `content/adoption/anti-patterns.md` · `content/adoption/formats.md` · `content/adoption/objection-handling.md`
 - **Rendered diagram:** `content/docs/AI-PDLC-linear.png`
+- **Dashboard template:** `templates/dashboard/` at the handbook repo root (not bundled inside the skill). Installs into a user project at `./artifacts/_dashboard/` via `templates/dashboard/install.sh`. The dashboard is static HTML + `data.js` (generated from the master flow) + `status.js` (updated by role agents as artifacts are produced). See `templates/dashboard/README.md`. The `product-ideation-to-planning` and `drive-product-phase` commands install and update it automatically — when invoked in agent mode by those workflows, remind the agent to run `update_status.py` after producing an artifact.
 
 In human-facing replies, you can use bare handbook paths (e.g., `roles/developer.md`) — they're recognizable to users reading the handbook repo on GitHub. But when *you* open a file with Read, always prefix with `content/` so the plugin install resolves it.
 
@@ -52,7 +53,8 @@ When invoked by one of the 14 role agents defined in `plugin/agents/`:
    - For role-wide questions (remit, RACI, escalation triggers): `content/roles/<slug>.md`.
    - For an artifact or outcome the agent is producing: the stub file at `content/phases/<N>/artifacts/<slug>.md` or `content/phases/<N>/outcomes/<slug>.md`.
    - For cross-role handoffs or gates: the phase README at `content/phases/<N>/README.md` (look for Exit checklist).
-4. **Return control.** A short acknowledgement — "Oriented. Canonical role file: `content/roles/developer.md`. For the feature-code artifact, see `content/phases/5-build/artifacts/feature-code.md`." — and let the agent get on with the task. Don't run a path unless the agent explicitly asks for one.
+4. **If a dashboard is present, remind the agent to update it.** If `./artifacts/_dashboard/status.js` exists in the user's project, add a one-liner to the orientation: *"Dashboard in play — when you finish, run `python3 ./artifacts/_dashboard/update_status.py ./artifacts/_dashboard/status.js \"<phase-slug>/<kind>/<filename>\" <status> --updated-by <role-slug> --artifact-path <path> [--notes ...]`."* Valid statuses: `complete`, `in-progress`, `prepared`, `blocked`, `deferred`. If no dashboard exists, don't mention it.
+5. **Return control.** A short acknowledgement — "Oriented. Canonical role file: `content/roles/developer.md`. For the feature-code artifact, see `content/phases/5-build/artifacts/feature-code.md`." — and let the agent get on with the task. Don't run a path unless the agent explicitly asks for one.
 
 ## Interactive mode — teach as you go
 
